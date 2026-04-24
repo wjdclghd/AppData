@@ -20,13 +20,15 @@ let package = Package(
         )
     ],
     dependencies: [
-        
+        .package(path: "../AppDomain"),
+        .package(path: "../Networking")
     ],
     targets: [
         .target(
             name: "AppData",
             dependencies: [
-                
+                "AppDomain",
+                "Networking"
             ],
             path: "Sources/AppData",
             linkerSettings: [
@@ -36,7 +38,9 @@ let package = Package(
         .testTarget(
             name: "AppDataTests",
             dependencies: [
+                "AppDomain",
                 "AppData",
+                "Networking"
                 
             ],
             path: "Tests/AppDataTests",
