@@ -21,18 +21,23 @@ let package = Package(
     ],
     dependencies: [
         .package(path: "../AppDomain"),
-        .package(path: "../Networking")
+        .package(path: "../../Core/Infrastructure/Networking"),
+        .package(path: "../../Core/Infrastructure/Persistence"),
+        .package(path: "../../Core/Infrastructure/SearchEngine")
     ],
     targets: [
         .target(
             name: "AppData",
             dependencies: [
                 "AppDomain",
-                "Networking"
+                "Networking",
+                "Persistence",
+                "SearchEngine"
             ],
             path: "Sources/AppData",
+            resources: [.process("Resources")],
             linkerSettings: [
-                
+
             ]
         ),
         .testTarget(
@@ -40,7 +45,9 @@ let package = Package(
             dependencies: [
                 "AppDomain",
                 "AppData",
-                "Networking"
+                "Networking",
+                "Persistence",
+                "SearchEngine"
                 
             ],
             path: "Tests/AppDataTests",
