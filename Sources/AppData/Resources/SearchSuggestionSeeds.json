@@ -1,0 +1,7009 @@
+[
+  {
+    "id": "appstore.searchbar.seed.music",
+    "title": "음악",
+    "body": "음악 AppStore 검색어",
+    "keywords": [
+      "음악",
+      "음악 앱",
+      "음악 어플",
+      "음악 추천",
+      "music",
+      "노래",
+      "스트리밍",
+      "플레이어",
+      "가수",
+      "가수 검색"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.voice-recorder",
+    "title": "음성녹음",
+    "body": "음성녹음 AppStore 검색어",
+    "keywords": [
+      "음성녹음",
+      "음성녹음 앱",
+      "음성녹음 어플",
+      "음성녹음 추천",
+      "녹음",
+      "레코더",
+      "voice recorder"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.lunar-calendar",
+    "title": "음력달력",
+    "body": "음력달력 AppStore 검색어",
+    "keywords": [
+      "음력달력",
+      "음력달력 앱",
+      "음력달력 어플",
+      "음력달력 추천",
+      "달력",
+      "캘린더",
+      "lunar calendar"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.music-editor",
+    "title": "음악편집",
+    "body": "음악편집 AppStore 검색어",
+    "keywords": [
+      "음악편집",
+      "음악편집 앱",
+      "음악편집 어플",
+      "음악편집 추천",
+      "편집",
+      "오디오",
+      "audio editor"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.music-streaming",
+    "title": "음악 스트리밍",
+    "body": "음악 스트리밍 AppStore 검색어",
+    "keywords": [
+      "음악 스트리밍",
+      "음악 스트리밍 앱",
+      "음악 스트리밍 어플",
+      "음악 스트리밍 추천",
+      "스트리밍",
+      "플레이리스트",
+      "라디오"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.podcast",
+    "title": "팟캐스트",
+    "body": "팟캐스트 AppStore 검색어",
+    "keywords": [
+      "팟캐스트",
+      "팟캐스트 앱",
+      "팟캐스트 어플",
+      "팟캐스트 추천",
+      "podcast",
+      "라디오",
+      "오디오 콘텐츠"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.audiobook",
+    "title": "오디오북",
+    "body": "오디오북 AppStore 검색어",
+    "keywords": [
+      "오디오북",
+      "오디오북 앱",
+      "오디오북 어플",
+      "오디오북 추천",
+      "audiobook",
+      "책 듣기",
+      "독서"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.metronome",
+    "title": "메트로놈",
+    "body": "메트로놈 AppStore 검색어",
+    "keywords": [
+      "메트로놈",
+      "메트로놈 앱",
+      "메트로놈 어플",
+      "메트로놈 추천",
+      "metronome",
+      "박자",
+      "템포"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.guitar-tuner",
+    "title": "기타 튜너",
+    "body": "기타 튜너 AppStore 검색어",
+    "keywords": [
+      "기타 튜너",
+      "기타 튜너 앱",
+      "기타 튜너 어플",
+      "기타 튜너 추천",
+      "tuner",
+      "악기",
+      "guitar"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.sheet-music",
+    "title": "악보",
+    "body": "악보 AppStore 검색어",
+    "keywords": [
+      "악보",
+      "악보 앱",
+      "악보 어플",
+      "악보 추천",
+      "sheet music",
+      "음악 악보",
+      "피아노 악보"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.karaoke",
+    "title": "노래방",
+    "body": "노래방 AppStore 검색어",
+    "keywords": [
+      "노래방",
+      "노래방 앱",
+      "노래방 어플",
+      "노래방 추천",
+      "karaoke",
+      "노래",
+      "반주",
+      "가수",
+      "가수처럼"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.sound-sleep",
+    "title": "수면 소음",
+    "body": "수면 소음 AppStore 검색어",
+    "keywords": [
+      "수면 소음",
+      "수면 소음 앱",
+      "수면 소음 어플",
+      "수면 소음 추천",
+      "백색소음",
+      "white noise",
+      "수면 음악"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.equalizer",
+    "title": "이퀄라이저",
+    "body": "이퀄라이저 AppStore 검색어",
+    "keywords": [
+      "이퀄라이저",
+      "이퀄라이저 앱",
+      "이퀄라이저 어플",
+      "이퀄라이저 추천",
+      "equalizer",
+      "음질",
+      "EQ"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.music-download",
+    "title": "음악 다운로드",
+    "body": "음악 다운로드 AppStore 검색어",
+    "keywords": [
+      "음악 다운로드",
+      "음악 다운로드 앱",
+      "음악 다운로드 어플",
+      "음악 다운로드 추천",
+      "MP3",
+      "음악 저장",
+      "오프라인 음악"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.sound-recognition",
+    "title": "음악 인식",
+    "body": "음악 인식 AppStore 검색어",
+    "keywords": [
+      "음악 인식",
+      "음악 인식 앱",
+      "음악 인식 어플",
+      "음악 인식 추천",
+      "Shazam",
+      "노래 찾기",
+      "음악 검색",
+      "가수 찾기",
+      "가수 검색"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.music-theory",
+    "title": "음악 이론",
+    "body": "음악 이론 AppStore 검색어",
+    "keywords": [
+      "음악 이론",
+      "음악 이론 앱",
+      "음악 이론 어플",
+      "음악 이론 추천",
+      "악전",
+      "음악 교육",
+      "코드"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.beat-maker",
+    "title": "비트메이커",
+    "body": "비트메이커 AppStore 검색어",
+    "keywords": [
+      "비트메이커",
+      "비트메이커 앱",
+      "비트메이커 어플",
+      "비트메이커 추천",
+      "beat maker",
+      "작곡",
+      "힙합"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.piano",
+    "title": "피아노",
+    "body": "피아노 AppStore 검색어",
+    "keywords": [
+      "피아노",
+      "피아노 앱",
+      "피아노 어플",
+      "피아노 추천",
+      "piano",
+      "건반",
+      "악기"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.guitar",
+    "title": "기타",
+    "body": "기타 AppStore 검색어",
+    "keywords": [
+      "기타",
+      "기타 앱",
+      "기타 어플",
+      "기타 추천",
+      "guitar",
+      "코드",
+      "탭"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.drum",
+    "title": "드럼",
+    "body": "드럼 AppStore 검색어",
+    "keywords": [
+      "드럼",
+      "드럼 앱",
+      "드럼 어플",
+      "드럼 추천",
+      "drum",
+      "리듬",
+      "타악기"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.dj",
+    "title": "DJ",
+    "body": "DJ AppStore 검색어",
+    "keywords": [
+      "DJ",
+      "DJ 앱",
+      "DJ 어플",
+      "DJ 추천",
+      "믹싱",
+      "믹서",
+      "클럽"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.music-score",
+    "title": "악보 제작",
+    "body": "악보 제작 AppStore 검색어",
+    "keywords": [
+      "악보 제작",
+      "악보 제작 앱",
+      "악보 제작 어플",
+      "악보 제작 추천",
+      "작곡",
+      "편곡",
+      "notation"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.music-game",
+    "title": "리듬게임",
+    "body": "리듬게임 AppStore 검색어",
+    "keywords": [
+      "리듬게임",
+      "리듬게임 앱",
+      "리듬게임 어플",
+      "리듬게임 추천",
+      "rhythm game",
+      "음악 게임",
+      "비트"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.choir",
+    "title": "합창",
+    "body": "합창 AppStore 검색어",
+    "keywords": [
+      "합창",
+      "합창 앱",
+      "합창 어플",
+      "합창 추천",
+      "choir",
+      "성가대",
+      "노래 연습"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.voice-changer",
+    "title": "목소리 변조",
+    "body": "목소리 변조 AppStore 검색어",
+    "keywords": [
+      "목소리 변조",
+      "목소리 변조 앱",
+      "목소리 변조 어플",
+      "목소리 변조 추천",
+      "voice changer",
+      "변성기",
+      "보이스"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.noise-cancel",
+    "title": "소음 제거",
+    "body": "소음 제거 AppStore 검색어",
+    "keywords": [
+      "소음 제거",
+      "소음 제거 앱",
+      "소음 제거 어플",
+      "소음 제거 추천",
+      "noise cancel",
+      "잡음 제거",
+      "녹음 편집"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.music-lyrics",
+    "title": "가사",
+    "body": "가사 AppStore 검색어",
+    "keywords": [
+      "가사",
+      "가사 앱",
+      "가사 어플",
+      "가사 추천",
+      "lyrics",
+      "노래 가사",
+      "가사 검색"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.classical",
+    "title": "클래식 음악",
+    "body": "클래식 음악 AppStore 검색어",
+    "keywords": [
+      "클래식 음악",
+      "클래식 음악 앱",
+      "클래식 음악 어플",
+      "클래식 음악 추천",
+      "classical",
+      "오케스트라",
+      "교향곡"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.trot",
+    "title": "트로트",
+    "body": "트로트 AppStore 검색어",
+    "keywords": [
+      "트로트",
+      "트로트 앱",
+      "트로트 어플",
+      "트로트 추천",
+      "trot",
+      "뽕짝",
+      "성인 가요",
+      "가수"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.hiphop",
+    "title": "힙합",
+    "body": "힙합 AppStore 검색어",
+    "keywords": [
+      "힙합",
+      "힙합 앱",
+      "힙합 어플",
+      "힙합 추천",
+      "hiphop",
+      "랩",
+      "rap"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.memo",
+    "title": "메모",
+    "body": "메모 AppStore 검색어",
+    "keywords": [
+      "메모",
+      "메모 앱",
+      "메모 어플",
+      "메모 추천",
+      "노트",
+      "기록",
+      "note"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.todo",
+    "title": "할일",
+    "body": "할일 AppStore 검색어",
+    "keywords": [
+      "할일",
+      "할일 앱",
+      "할일 어플",
+      "할일 추천",
+      "todo",
+      "체크리스트",
+      "태스크"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.task-manager",
+    "title": "업무관리",
+    "body": "업무관리 AppStore 검색어",
+    "keywords": [
+      "업무관리",
+      "업무관리 앱",
+      "업무관리 어플",
+      "업무관리 추천",
+      "프로젝트 관리",
+      "task",
+      "일정 관리"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.pdf",
+    "title": "PDF",
+    "body": "PDF AppStore 검색어",
+    "keywords": [
+      "PDF",
+      "PDF 앱",
+      "PDF 어플",
+      "PDF 추천",
+      "PDF 편집",
+      "PDF 뷰어",
+      "문서",
+      "인쇄",
+      "프린터",
+      "팩스",
+      "인쇄 앱"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.document-editor",
+    "title": "문서편집",
+    "body": "문서편집 AppStore 검색어",
+    "keywords": [
+      "문서편집",
+      "문서편집 앱",
+      "문서편집 어플",
+      "문서편집 추천",
+      "워드",
+      "문서 작성",
+      "텍스트"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.spreadsheet",
+    "title": "스프레드시트",
+    "body": "스프레드시트 AppStore 검색어",
+    "keywords": [
+      "스프레드시트",
+      "스프레드시트 앱",
+      "스프레드시트 어플",
+      "스프레드시트 추천",
+      "엑셀",
+      "표",
+      "Excel"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.presentation",
+    "title": "프레젠테이션",
+    "body": "프레젠테이션 AppStore 검색어",
+    "keywords": [
+      "프레젠테이션",
+      "프레젠테이션 앱",
+      "프레젠테이션 어플",
+      "프레젠테이션 추천",
+      "PPT",
+      "발표",
+      "슬라이드"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.scanner",
+    "title": "스캐너",
+    "body": "스캐너 AppStore 검색어",
+    "keywords": [
+      "스캐너",
+      "스캐너 앱",
+      "스캐너 어플",
+      "스캐너 추천",
+      "scanner",
+      "문서 스캔",
+      "OCR"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.password-manager",
+    "title": "비밀번호 관리",
+    "body": "비밀번호 관리 AppStore 검색어",
+    "keywords": [
+      "비밀번호 관리",
+      "비밀번호 관리 앱",
+      "비밀번호 관리 어플",
+      "비밀번호 관리 추천",
+      "password manager",
+      "보안",
+      "로그인"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.cloud-storage",
+    "title": "클라우드 저장소",
+    "body": "클라우드 저장소 AppStore 검색어",
+    "keywords": [
+      "클라우드 저장소",
+      "클라우드 저장소 앱",
+      "클라우드 저장소 어플",
+      "클라우드 저장소 추천",
+      "cloud",
+      "파일 보관",
+      "백업"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.mind-map",
+    "title": "마인드맵",
+    "body": "마인드맵 AppStore 검색어",
+    "keywords": [
+      "마인드맵",
+      "마인드맵 앱",
+      "마인드맵 어플",
+      "마인드맵 추천",
+      "mind map",
+      "브레인스토밍",
+      "아이디어"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.time-tracking",
+    "title": "시간 관리",
+    "body": "시간 관리 AppStore 검색어",
+    "keywords": [
+      "시간 관리",
+      "시간 관리 앱",
+      "시간 관리 어플",
+      "시간 관리 추천",
+      "타임 트래킹",
+      "생산성",
+      "집중"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.focus-timer",
+    "title": "집중 타이머",
+    "body": "집중 타이머 AppStore 검색어",
+    "keywords": [
+      "집중 타이머",
+      "집중 타이머 앱",
+      "집중 타이머 어플",
+      "집중 타이머 추천",
+      "포모도로",
+      "공부 타이머",
+      "뽀모도로"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.habit-tracker",
+    "title": "습관 관리",
+    "body": "습관 관리 AppStore 검색어",
+    "keywords": [
+      "습관 관리",
+      "습관 관리 앱",
+      "습관 관리 어플",
+      "습관 관리 추천",
+      "habit tracker",
+      "루틴",
+      "목표"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.clipboard",
+    "title": "클립보드",
+    "body": "클립보드 AppStore 검색어",
+    "keywords": [
+      "클립보드",
+      "클립보드 앱",
+      "클립보드 어플",
+      "클립보드 추천",
+      "clipboard",
+      "복사 붙여넣기",
+      "텍스트 관리"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.sticky-note",
+    "title": "포스트잇",
+    "body": "포스트잇 AppStore 검색어",
+    "keywords": [
+      "포스트잇",
+      "포스트잇 앱",
+      "포스트잇 어플",
+      "포스트잇 추천",
+      "sticky note",
+      "메모지",
+      "위젯"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.writing",
+    "title": "글쓰기",
+    "body": "글쓰기 AppStore 검색어",
+    "keywords": [
+      "글쓰기",
+      "글쓰기 앱",
+      "글쓰기 어플",
+      "글쓰기 추천",
+      "작문",
+      "일기",
+      "블로그"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.diary",
+    "title": "일기",
+    "body": "일기 AppStore 검색어",
+    "keywords": [
+      "일기",
+      "일기 앱",
+      "일기 어플",
+      "일기 추천",
+      "diary",
+      "journal",
+      "하루 기록"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.email",
+    "title": "이메일",
+    "body": "이메일 AppStore 검색어",
+    "keywords": [
+      "이메일",
+      "이메일 앱",
+      "이메일 어플",
+      "이메일 추천",
+      "메일",
+      "email",
+      "받은편지함"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.ocr",
+    "title": "OCR",
+    "body": "OCR AppStore 검색어",
+    "keywords": [
+      "OCR",
+      "OCR 앱",
+      "OCR 어플",
+      "OCR 추천",
+      "문자 인식",
+      "텍스트 인식",
+      "명함 스캔"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.weather",
+    "title": "날씨",
+    "body": "날씨 AppStore 검색어",
+    "keywords": [
+      "날씨",
+      "날씨 앱",
+      "날씨 어플",
+      "날씨 추천",
+      "기상",
+      "예보",
+      "weather"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.calendar",
+    "title": "캘린더",
+    "body": "캘린더 AppStore 검색어",
+    "keywords": [
+      "캘린더",
+      "캘린더 앱",
+      "캘린더 어플",
+      "캘린더 추천",
+      "일정",
+      "달력",
+      "calendar"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.clock",
+    "title": "시계",
+    "body": "시계 AppStore 검색어",
+    "keywords": [
+      "시계",
+      "시계 앱",
+      "시계 어플",
+      "시계 추천",
+      "알람",
+      "타이머",
+      "clock"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.alarm",
+    "title": "알람",
+    "body": "알람 AppStore 검색어",
+    "keywords": [
+      "알람",
+      "알람 앱",
+      "알람 어플",
+      "알람 추천",
+      "alarm",
+      "기상 알람",
+      "모닝콜"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.world-clock",
+    "title": "세계 시계",
+    "body": "세계 시계 AppStore 검색어",
+    "keywords": [
+      "세계 시계",
+      "세계 시계 앱",
+      "세계 시계 어플",
+      "세계 시계 추천",
+      "world clock",
+      "시차",
+      "타임존"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.stopwatch",
+    "title": "스톱워치",
+    "body": "스톱워치 AppStore 검색어",
+    "keywords": [
+      "스톱워치",
+      "스톱워치 앱",
+      "스톱워치 어플",
+      "스톱워치 추천",
+      "stopwatch",
+      "측정",
+      "랩타임"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.weather-radar",
+    "title": "날씨 레이더",
+    "body": "날씨 레이더 AppStore 검색어",
+    "keywords": [
+      "날씨 레이더",
+      "날씨 레이더 앱",
+      "날씨 레이더 어플",
+      "날씨 레이더 추천",
+      "강수량",
+      "비",
+      "레이더"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.air-quality",
+    "title": "미세먼지",
+    "body": "미세먼지 AppStore 검색어",
+    "keywords": [
+      "미세먼지",
+      "미세먼지 앱",
+      "미세먼지 어플",
+      "미세먼지 추천",
+      "공기질",
+      "대기",
+      "PM2.5"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.schedule",
+    "title": "일정관리",
+    "body": "일정관리 AppStore 검색어",
+    "keywords": [
+      "일정관리",
+      "일정관리 앱",
+      "일정관리 어플",
+      "일정관리 추천",
+      "스케줄",
+      "계획표",
+      "플래너"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.planner",
+    "title": "플래너",
+    "body": "플래너 AppStore 검색어",
+    "keywords": [
+      "플래너",
+      "플래너 앱",
+      "플래너 어플",
+      "플래너 추천",
+      "planner",
+      "다이어리",
+      "위클리"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.reminder",
+    "title": "리마인더",
+    "body": "리마인더 AppStore 검색어",
+    "keywords": [
+      "리마인더",
+      "리마인더 앱",
+      "리마인더 어플",
+      "리마인더 추천",
+      "reminder",
+      "알림",
+      "할일 알림"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.anniversary",
+    "title": "기념일",
+    "body": "기념일 AppStore 검색어",
+    "keywords": [
+      "기념일",
+      "기념일 앱",
+      "기념일 어필",
+      "기념일 추천",
+      "디데이",
+      "D-day",
+      "날짜 계산"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.photo-edit",
+    "title": "사진 편집",
+    "body": "사진 편집 AppStore 검색어",
+    "keywords": [
+      "사진 편집",
+      "사진 편집 앱",
+      "사진 편집 어플",
+      "사진 편집 추천",
+      "보정",
+      "필터",
+      "photo editor"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.video-edit",
+    "title": "동영상 편집",
+    "body": "동영상 편집 AppStore 검색어",
+    "keywords": [
+      "동영상 편집",
+      "동영상 편집 앱",
+      "동영상 편집 어플",
+      "동영상 편집 추천",
+      "영상",
+      "편집",
+      "video editor"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.camera",
+    "title": "카메라",
+    "body": "카메라 AppStore 검색어",
+    "keywords": [
+      "카메라",
+      "카메라 앱",
+      "카메라 어플",
+      "카메라 추천",
+      "사진",
+      "촬영",
+      "camera"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.collage",
+    "title": "콜라주",
+    "body": "콜라주 AppStore 검색어",
+    "keywords": [
+      "콜라주",
+      "콜라주 앱",
+      "콜라주 어플",
+      "콜라주 추천",
+      "collage",
+      "사진 합성",
+      "레이아웃"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.gif-maker",
+    "title": "GIF 만들기",
+    "body": "GIF 만들기 AppStore 검색어",
+    "keywords": [
+      "GIF 만들기",
+      "GIF 만들기 앱",
+      "GIF 만들기 어플",
+      "GIF 만들기 추천",
+      "GIF",
+      "움짤",
+      "애니메이션"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.background-remover",
+    "title": "배경 제거",
+    "body": "배경 제거 AppStore 검색어",
+    "keywords": [
+      "배경 제거",
+      "배경 제거 앱",
+      "배경 제거 어플",
+      "배경 제거 추천",
+      "누끼",
+      "background remover",
+      "사진 편집"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.photo-album",
+    "title": "사진 앨범",
+    "body": "사진 앨범 AppStore 검색어",
+    "keywords": [
+      "사진 앨범",
+      "사진 앨범 앱",
+      "사진 앨범 어플",
+      "사진 앨범 추천",
+      "갤러리",
+      "사진 정리",
+      "photo album"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.portrait-mode",
+    "title": "인물사진",
+    "body": "인물사진 AppStore 검색어",
+    "keywords": [
+      "인물사진",
+      "인물사진 앱",
+      "인물사진 어플",
+      "인물사진 추천",
+      "셀피",
+      "자기사진",
+      "보정"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.selfie",
+    "title": "셀카",
+    "body": "셀카 AppStore 검색어",
+    "keywords": [
+      "셀카",
+      "셀카 앱",
+      "셀카 어플",
+      "셀카 추천",
+      "selfie",
+      "뷰티 카메라",
+      "필터"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.short-video",
+    "title": "쇼츠",
+    "body": "쇼츠 AppStore 검색어",
+    "keywords": [
+      "쇼츠",
+      "쇼츠 앱",
+      "쇼츠 어플",
+      "쇼츠 추천",
+      "shorts",
+      "릴스",
+      "틱톡 영상"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.slow-motion",
+    "title": "슬로우모션",
+    "body": "슬로우모션 AppStore 검색어",
+    "keywords": [
+      "슬로우모션",
+      "슬로우모션 앱",
+      "슬로우모션 어플",
+      "슬로우모션 추천",
+      "slow motion",
+      "슬로모",
+      "느린 촬영"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.timelapse",
+    "title": "타임랩스",
+    "body": "타임랩스 AppStore 검색어",
+    "keywords": [
+      "타임랩스",
+      "타임랩스 앱",
+      "타임랩스 어플",
+      "타임랩스 추천",
+      "timelapse",
+      "빠른 촬영",
+      "영상 촬영"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.sticker",
+    "title": "스티커",
+    "body": "스티커 AppStore 검색어",
+    "keywords": [
+      "스티커",
+      "스티커 앱",
+      "스티커 어플",
+      "스티커 추천",
+      "이모티콘",
+      "이모지",
+      "sticker"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.watermark",
+    "title": "워터마크",
+    "body": "워터마크 AppStore 검색어",
+    "keywords": [
+      "워터마크",
+      "워터마크 앱",
+      "워터마크 어플",
+      "워터마크 추천",
+      "watermark",
+      "사진 저작권",
+      "텍스트 삽입"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.photo-compress",
+    "title": "사진 압축",
+    "body": "사진 압축 AppStore 검색어",
+    "keywords": [
+      "사진 압축",
+      "사진 압축 앱",
+      "사진 압축 어플",
+      "사진 압축 추천",
+      "이미지 크기 줄이기",
+      "용량 줄이기",
+      "compress"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.drawing",
+    "title": "그림 그리기",
+    "body": "그림 그리기 AppStore 검색어",
+    "keywords": [
+      "그림 그리기",
+      "그림 그리기 앱",
+      "그림 그리기 어플",
+      "그림 그리기 추천",
+      "drawing",
+      "일러스트",
+      "디지털 아트",
+      "드로잉",
+      "스케치",
+      "색칠",
+      "색칠 공부"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.screen-recorder",
+    "title": "화면 녹화",
+    "body": "화면 녹화 AppStore 검색어",
+    "keywords": [
+      "화면 녹화",
+      "화면 녹화 앱",
+      "화면 녹화 어플",
+      "화면 녹화 추천",
+      "screen recorder",
+      "화면 캡처",
+      "스크린샷"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.video-player",
+    "title": "동영상 플레이어",
+    "body": "동영상 플레이어 AppStore 검색어",
+    "keywords": [
+      "동영상 플레이어",
+      "동영상 플레이어 앱",
+      "동영상 플레이어 어플",
+      "동영상 플레이어 추천",
+      "video player",
+      "영상 재생",
+      "미디어"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.subtitle",
+    "title": "자막",
+    "body": "자막 AppStore 검색어",
+    "keywords": [
+      "자막",
+      "자막 앱",
+      "자막 어플",
+      "자막 추천",
+      "subtitle",
+      "외국어 자막",
+      "영상 자막"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.photo-print",
+    "title": "사진 인화",
+    "body": "사진 인화 AppStore 검색어",
+    "keywords": [
+      "사진 인화",
+      "사진 인화 앱",
+      "사진 인화 어플",
+      "사진 인화 추천",
+      "인화",
+      "사진 출력",
+      "포토북"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.map",
+    "title": "지도",
+    "body": "지도 AppStore 검색어",
+    "keywords": [
+      "지도",
+      "지도 앱",
+      "지도 어플",
+      "지도 추천",
+      "내비게이션",
+      "길찾기",
+      "map",
+      "근처",
+      "위치",
+      "가까운",
+      "주변"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.navigation",
+    "title": "내비게이션",
+    "body": "내비게이션 AppStore 검색어",
+    "keywords": [
+      "내비게이션",
+      "내비게이션 앱",
+      "내비게이션 어플",
+      "내비게이션 추천",
+      "길안내",
+      "GPS",
+      "네비"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.public-transit",
+    "title": "대중교통",
+    "body": "대중교통 AppStore 검색어",
+    "keywords": [
+      "대중교통",
+      "대중교통 앱",
+      "대중교통 어플",
+      "대중교통 추천",
+      "버스",
+      "지하철",
+      "교통"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.parking",
+    "title": "주차",
+    "body": "주차 AppStore 검색어",
+    "keywords": [
+      "주차",
+      "주차 앱",
+      "주차 어플",
+      "주차 추천",
+      "주차장",
+      "parking",
+      "주차 요금"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.bicycle",
+    "title": "자전거",
+    "body": "자전거 AppStore 검색어",
+    "keywords": [
+      "자전거",
+      "자전거 앱",
+      "자전거 어플",
+      "자전거 추천",
+      "공유 자전거",
+      "따릉이",
+      "cycling"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.subway",
+    "title": "지하철",
+    "body": "지하철 AppStore 검색어",
+    "keywords": [
+      "지하철",
+      "지하철 앱",
+      "지하철 어플",
+      "지하철 추천",
+      "지하철 노선도",
+      "도착 시간",
+      "subway"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.bus",
+    "title": "버스",
+    "body": "버스 AppStore 검색어",
+    "keywords": [
+      "버스",
+      "버스 앱",
+      "버스 어플",
+      "버스 추천",
+      "버스 노선",
+      "도착 정보",
+      "버스 시간표"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.taxi",
+    "title": "택시",
+    "body": "택시 AppStore 검색어",
+    "keywords": [
+      "택시",
+      "택시 앱",
+      "택시 어플",
+      "택시 추천",
+      "카카오 택시",
+      "콜택시",
+      "호출"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.driving",
+    "title": "주행",
+    "body": "주행 AppStore 검색어",
+    "keywords": [
+      "주행",
+      "주행 앱",
+      "주행 어플",
+      "주행 추천",
+      "드라이빙",
+      "블랙박스",
+      "속도계"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.speed-camera",
+    "title": "과속 단속 카메라",
+    "body": "과속 단속 카메라 AppStore 검색어",
+    "keywords": [
+      "과속 단속 카메라",
+      "과속 단속 카메라 앱",
+      "과속 단속 카메라 어플",
+      "과속 단속 카메라 추천",
+      "단속 카메라",
+      "과속",
+      "교통 카메라"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.toll",
+    "title": "하이패스",
+    "body": "하이패스 AppStore 검색어",
+    "keywords": [
+      "하이패스",
+      "하이패스 앱",
+      "하이패스 어플",
+      "하이패스 추천",
+      "통행료",
+      "고속도로",
+      "하이패스 잔액"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.nearby",
+    "title": "주변 검색",
+    "body": "주변 검색 AppStore 검색어",
+    "keywords": [
+      "주변 검색",
+      "주변 검색 앱",
+      "주변 검색 어플",
+      "주변 검색 추천",
+      "맛집",
+      "주변 음식점",
+      "내 주변"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.translation",
+    "title": "번역",
+    "body": "번역 AppStore 검색어",
+    "keywords": [
+      "번역",
+      "번역 앱",
+      "번역 어플",
+      "번역 추천",
+      "통역",
+      "언어",
+      "translate"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.english-study",
+    "title": "영어 공부",
+    "body": "영어 공부 AppStore 검색어",
+    "keywords": [
+      "영어 공부",
+      "영어 공부 앱",
+      "영어 공부 어플",
+      "영어 공부 추천",
+      "학습",
+      "단어",
+      "english",
+      "어학"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.japanese",
+    "title": "일본어",
+    "body": "일본어 AppStore 검색어",
+    "keywords": [
+      "일본어",
+      "일본어 앱",
+      "일본어 어플",
+      "일본어 추천",
+      "히라가나",
+      "가타카나",
+      "일어",
+      "어학"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.chinese",
+    "title": "중국어",
+    "body": "중국어 AppStore 검색어",
+    "keywords": [
+      "중국어",
+      "중국어 앱",
+      "중국어 어플",
+      "중국어 추천",
+      "한자",
+      "만다린",
+      "중어",
+      "어학"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.chinese-characters",
+    "title": "한자",
+    "body": "한자 AppStore 검색어",
+    "keywords": [
+      "한자",
+      "한자 앱",
+      "한자 어플",
+      "한자 추천",
+      "한문",
+      "한자 공부",
+      "자전"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.english-dictionary",
+    "title": "영어 사전",
+    "body": "영어 사전 AppStore 검색어",
+    "keywords": [
+      "영어 사전",
+      "영어 사전 앱",
+      "영어 사전 어플",
+      "영어 사전 추천",
+      "dictionary",
+      "단어장",
+      "영한 사전"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.english-grammar",
+    "title": "영문법",
+    "body": "영문법 AppStore 검색어",
+    "keywords": [
+      "영문법",
+      "영문법 앱",
+      "영문법 어플",
+      "영문법 추천",
+      "grammar",
+      "문법",
+      "영어 문법"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.english-conversation",
+    "title": "영어 회화",
+    "body": "영어 회화 AppStore 검색어",
+    "keywords": [
+      "영어 회화",
+      "영어 회화 앱",
+      "영어 회화 어플",
+      "영어 회화 추천",
+      "영어 말하기",
+      "스피킹",
+      "speaking"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.toeic",
+    "title": "토익",
+    "body": "토익 AppStore 검색어",
+    "keywords": [
+      "토익",
+      "토익 앱",
+      "토익 어플",
+      "토익 추천",
+      "TOEIC",
+      "토익 공부",
+      "영어 시험"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.toefl",
+    "title": "토플",
+    "body": "토플 AppStore 검색어",
+    "keywords": [
+      "토플",
+      "토플 앱",
+      "토플 어플",
+      "토플 추천",
+      "TOEFL",
+      "토플 공부",
+      "영어 시험"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.spanish",
+    "title": "스페인어",
+    "body": "스페인어 AppStore 검색어",
+    "keywords": [
+      "스페인어",
+      "스페인어 앱",
+      "스페인어 어플",
+      "스페인어 추천",
+      "spanish",
+      "에스파냐어",
+      "외국어"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.french",
+    "title": "프랑스어",
+    "body": "프랑스어 AppStore 검색어",
+    "keywords": [
+      "프랑스어",
+      "프랑스어 앱",
+      "프랑스어 어플",
+      "프랑스어 추천",
+      "french",
+      "불어",
+      "외국어"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.german",
+    "title": "독일어",
+    "body": "독일어 AppStore 검색어",
+    "keywords": [
+      "독일어",
+      "독일어 앱",
+      "독일어 어플",
+      "독일어 추천",
+      "german",
+      "독어",
+      "외국어"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.vocabulary",
+    "title": "단어장",
+    "body": "단어장 AppStore 검색어",
+    "keywords": [
+      "단어장",
+      "단어장 앱",
+      "단어장 어필",
+      "단어장 추천",
+      "vocabulary",
+      "영단어",
+      "플래시카드"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.coding",
+    "title": "코딩",
+    "body": "코딩 AppStore 검색어",
+    "keywords": [
+      "코딩",
+      "코딩 앱",
+      "코딩 어플",
+      "코딩 추천",
+      "프로그래밍",
+      "coding",
+      "개발"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.math",
+    "title": "수학",
+    "body": "수학 AppStore 검색어",
+    "keywords": [
+      "수학",
+      "수학 앱",
+      "수학 어플",
+      "수학 추천",
+      "계산",
+      "공식",
+      "math"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.science",
+    "title": "과학",
+    "body": "과학 AppStore 검색어",
+    "keywords": [
+      "과학",
+      "과학 앱",
+      "과학 어플",
+      "과학 추천",
+      "물리",
+      "화학",
+      "science"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.study-timer",
+    "title": "공부 타이머",
+    "body": "공부 타이머 AppStore 검색어",
+    "keywords": [
+      "공부 타이머",
+      "공부 타이머 앱",
+      "공부 타이머 어플",
+      "공부 타이머 추천",
+      "스터디 타이머",
+      "학습",
+      "집중"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.spelling",
+    "title": "맞춤법",
+    "body": "맞춤법 AppStore 검색어",
+    "keywords": [
+      "맞춤법",
+      "맞춤법 앱",
+      "맞춤법 어필",
+      "맞춤법 추천",
+      "spelling",
+      "한국어",
+      "문법 검사"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.note-taking",
+    "title": "필기",
+    "body": "필기 AppStore 검색어",
+    "keywords": [
+      "필기",
+      "필기 앱",
+      "필기 어플",
+      "필기 추천",
+      "손글씨",
+      "note taking",
+      "애플 펜슬"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.workout",
+    "title": "운동",
+    "body": "운동 AppStore 검색어",
+    "keywords": [
+      "운동",
+      "운동 앱",
+      "운동 어플",
+      "운동 추천",
+      "헬스",
+      "피트니스",
+      "workout"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.running",
+    "title": "러닝",
+    "body": "러닝 AppStore 검색어",
+    "keywords": [
+      "러닝",
+      "러닝 앱",
+      "러닝 어플",
+      "러닝 추천",
+      "달리기",
+      "운동",
+      "running"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.meditation",
+    "title": "명상",
+    "body": "명상 AppStore 검색어",
+    "keywords": [
+      "명상",
+      "명상 앱",
+      "명상 어플",
+      "명상 추천",
+      "수면",
+      "집중",
+      "meditation"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.sleep",
+    "title": "수면",
+    "body": "수면 AppStore 검색어",
+    "keywords": [
+      "수면",
+      "수면 앱",
+      "수면 어플",
+      "수면 추천",
+      "잠",
+      "숙면",
+      "sleep"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.diet",
+    "title": "다이어트",
+    "body": "다이어트 AppStore 검색어",
+    "keywords": [
+      "다이어트",
+      "다이어트 앱",
+      "다이어트 어플",
+      "다이어트 추천",
+      "체중 감량",
+      "식단",
+      "diet"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.calorie",
+    "title": "칼로리",
+    "body": "칼로리 AppStore 검색어",
+    "keywords": [
+      "칼로리",
+      "칼로리 앱",
+      "칼로리 어필",
+      "칼로리 추천",
+      "칼로리 계산",
+      "음식 칼로리",
+      "calorie"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.yoga",
+    "title": "요가",
+    "body": "요가 AppStore 검색어",
+    "keywords": [
+      "요가",
+      "요가 앱",
+      "요가 어플",
+      "요가 추천",
+      "필라테스",
+      "스트레칭",
+      "yoga"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.pilates",
+    "title": "필라테스",
+    "body": "필라테스 AppStore 검색어",
+    "keywords": [
+      "필라테스",
+      "필라테스 앱",
+      "필라테스 어플",
+      "필라테스 추천",
+      "코어",
+      "스트레칭",
+      "pilates"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.gym",
+    "title": "헬스장",
+    "body": "헬스장 AppStore 검색어",
+    "keywords": [
+      "헬스장",
+      "헬스장 앱",
+      "헬스장 어플",
+      "헬스장 추천",
+      "gym",
+      "PT",
+      "웨이트"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.step-counter",
+    "title": "만보기",
+    "body": "만보기 AppStore 검색어",
+    "keywords": [
+      "만보기",
+      "만보기 앱",
+      "만보기 어필",
+      "만보기 추천",
+      "걸음수",
+      "pedometer",
+      "step counter"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.cycling",
+    "title": "사이클",
+    "body": "사이클 AppStore 검색어",
+    "keywords": [
+      "사이클",
+      "사이클 앱",
+      "사이클 어필",
+      "사이클 추천",
+      "자전거 운동",
+      "cycling",
+      "스피닝"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.swimming",
+    "title": "수영",
+    "body": "수영 AppStore 검색어",
+    "keywords": [
+      "수영",
+      "수영 앱",
+      "수영 어필",
+      "수영 추천",
+      "swimming",
+      "수영 기록",
+      "랩"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.hiking",
+    "title": "등산",
+    "body": "등산 AppStore 검색어",
+    "keywords": [
+      "등산",
+      "등산 앱",
+      "등산 어플",
+      "등산 추천",
+      "hiking",
+      "트레킹",
+      "산"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.heart-rate",
+    "title": "심박수",
+    "body": "심박수 AppStore 검색어",
+    "keywords": [
+      "심박수",
+      "심박수 앱",
+      "심박수 어필",
+      "심박수 추천",
+      "heart rate",
+      "맥박",
+      "건강"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.health-record",
+    "title": "건강 기록",
+    "body": "건강 기록 AppStore 검색어",
+    "keywords": [
+      "건강 기록",
+      "건강 기록 앱",
+      "건강 기록 어필",
+      "건강 기록 추천",
+      "건강 관리",
+      "health",
+      "혈압"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.water-intake",
+    "title": "물 마시기",
+    "body": "물 마시기 AppStore 검색어",
+    "keywords": [
+      "물 마시기",
+      "물 마시기 앱",
+      "물 마시기 어필",
+      "물 마시기 추천",
+      "수분 섭취",
+      "water",
+      "건강"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.nutrition",
+    "title": "영양",
+    "body": "영양 AppStore 검색어",
+    "keywords": [
+      "영양",
+      "영양 앱",
+      "영양 어필",
+      "영양 추천",
+      "식단 관리",
+      "nutrition",
+      "건강 식품"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.stretching",
+    "title": "스트레칭",
+    "body": "스트레칭 AppStore 검색어",
+    "keywords": [
+      "스트레칭",
+      "스트레칭 앱",
+      "스트레칭 어필",
+      "스트레칭 추천",
+      "유연성",
+      "stretching",
+      "몸풀기"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.period-tracker",
+    "title": "생리 주기",
+    "body": "생리 주기 AppStore 검색어",
+    "keywords": [
+      "생리 주기",
+      "생리 주기 앱",
+      "생리 주기 어필",
+      "생리 주기 추천",
+      "월경",
+      "period tracker",
+      "여성 건강"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.pregnancy",
+    "title": "임신",
+    "body": "임신 AppStore 검색어",
+    "keywords": [
+      "임신",
+      "임신 앱",
+      "임신 어필",
+      "임신 추천",
+      "태교",
+      "pregnancy",
+      "출산"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.budget",
+    "title": "가계부",
+    "body": "가계부 AppStore 검색어",
+    "keywords": [
+      "가계부",
+      "가계부 앱",
+      "가계부 어플",
+      "가계부 추천",
+      "지출",
+      "예산",
+      "budget",
+      "회계",
+      "회계 앱"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.finance",
+    "title": "금융",
+    "body": "금융 AppStore 검색어",
+    "keywords": [
+      "금융",
+      "금융 앱",
+      "금융 어플",
+      "금융 추천",
+      "재무",
+      "finance",
+      "money"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.stock",
+    "title": "주식",
+    "body": "주식 AppStore 검색어",
+    "keywords": [
+      "주식",
+      "주식 앱",
+      "주식 어플",
+      "주식 추천",
+      "증권",
+      "투자",
+      "stock"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.exchange-rate",
+    "title": "환율",
+    "body": "환율 AppStore 검색어",
+    "keywords": [
+      "환율",
+      "환율 앱",
+      "환율 어필",
+      "환율 추천",
+      "외환",
+      "달러",
+      "exchange rate"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.tax",
+    "title": "세금",
+    "body": "세금 AppStore 검색어",
+    "keywords": [
+      "세금",
+      "세금 앱",
+      "세금 어필",
+      "세금 추천",
+      "연말정산",
+      "tax",
+      "납세",
+      "세무",
+      "세무사",
+      "세금 신고"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.insurance",
+    "title": "보험",
+    "body": "보험 AppStore 검색어",
+    "keywords": [
+      "보험",
+      "보험 앱",
+      "보험 어필",
+      "보험 추천",
+      "생명보험",
+      "의료보험",
+      "insurance"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.crypto",
+    "title": "암호화폐",
+    "body": "암호화폐 AppStore 검색어",
+    "keywords": [
+      "암호화폐",
+      "암호화폐 앱",
+      "암호화폐 어필",
+      "암호화폐 추천",
+      "비트코인",
+      "이더리움",
+      "crypto"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.remittance",
+    "title": "해외송금",
+    "body": "해외송금 AppStore 검색어",
+    "keywords": [
+      "해외송금",
+      "해외송금 앱",
+      "해외송금 어필",
+      "해외송금 추천",
+      "국제송금",
+      "외화 송금",
+      "remittance"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.expense-split",
+    "title": "더치페이",
+    "body": "더치페이 AppStore 검색어",
+    "keywords": [
+      "더치페이",
+      "더치페이 앱",
+      "더치페이 어필",
+      "더치페이 추천",
+      "정산",
+      "비용 분할",
+      "split"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.receipt",
+    "title": "영수증",
+    "body": "영수증 AppStore 검색어",
+    "keywords": [
+      "영수증",
+      "영수증 앱",
+      "영수증 어필",
+      "영수증 추천",
+      "지출 기록",
+      "receipt"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.real-estate",
+    "title": "부동산",
+    "body": "부동산 AppStore 검색어",
+    "keywords": [
+      "부동산",
+      "부동산 앱",
+      "부동산 어필",
+      "부동산 추천",
+      "집값",
+      "아파트",
+      "real estate",
+      "청약",
+      "아파트 청약",
+      "청약통장"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.loan",
+    "title": "대출",
+    "body": "대출 AppStore 검색어",
+    "keywords": [
+      "대출",
+      "대출 앱",
+      "대출 어필",
+      "대출 추천",
+      "금리",
+      "이자",
+      "loan"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.game",
+    "title": "게임",
+    "body": "게임 AppStore 검색어",
+    "keywords": [
+      "게임",
+      "게임 앱",
+      "게임 어플",
+      "게임 추천",
+      "모바일 게임",
+      "game"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.puzzle",
+    "title": "퍼즐",
+    "body": "퍼즐 AppStore 검색어",
+    "keywords": [
+      "퍼즐",
+      "퍼즐 앱",
+      "퍼즐 어플",
+      "퍼즐 추천",
+      "두뇌",
+      "puzzle"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.rpg",
+    "title": "RPG",
+    "body": "RPG AppStore 검색어",
+    "keywords": [
+      "RPG",
+      "RPG 앱",
+      "RPG 어플",
+      "RPG 추천",
+      "역할게임",
+      "role playing",
+      "판타지"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.casual-game",
+    "title": "캐주얼 게임",
+    "body": "캐주얼 게임 AppStore 검색어",
+    "keywords": [
+      "캐주얼 게임",
+      "캐주얼 게임 앱",
+      "캐주얼 게임 어플",
+      "캐주얼 게임 추천",
+      "간단한 게임",
+      "casual game",
+      "휴식"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.board-game",
+    "title": "보드게임",
+    "body": "보드게임 AppStore 검색어",
+    "keywords": [
+      "보드게임",
+      "보드게임 앱",
+      "보드게임 어필",
+      "보드게임 추천",
+      "체스",
+      "바둑",
+      "board game"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.word-game",
+    "title": "단어 게임",
+    "body": "단어 게임 AppStore 검색어",
+    "keywords": [
+      "단어 게임",
+      "단어 게임 앱",
+      "단어 게임 어필",
+      "단어 게임 추천",
+      "끝말잇기",
+      "word game",
+      "언어"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.card-game",
+    "title": "카드 게임",
+    "body": "카드 게임 AppStore 검색어",
+    "keywords": [
+      "카드 게임",
+      "카드 게임 앱",
+      "카드 게임 어필",
+      "카드 게임 추천",
+      "포커",
+      "카드",
+      "card game"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.strategy-game",
+    "title": "전략 게임",
+    "body": "전략 게임 AppStore 검색어",
+    "keywords": [
+      "전략 게임",
+      "전략 게임 앱",
+      "전략 게임 어필",
+      "전략 게임 추천",
+      "strategy",
+      "RTS",
+      "타워 디펜스"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.arcade",
+    "title": "아케이드",
+    "body": "아케이드 AppStore 검색어",
+    "keywords": [
+      "아케이드",
+      "아케이드 앱",
+      "아케이드 어필",
+      "아케이드 추천",
+      "arcade",
+      "옛날 게임",
+      "클래식 게임"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.simulation-game",
+    "title": "시뮬레이션 게임",
+    "body": "시뮬레이션 게임 AppStore 검색어",
+    "keywords": [
+      "시뮬레이션 게임",
+      "시뮬레이션 게임 앱",
+      "시뮬레이션 게임 어필",
+      "시뮬레이션 게임 추천",
+      "simulation",
+      "도시 건설",
+      "농장"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.racing-game",
+    "title": "레이싱 게임",
+    "body": "레이싱 게임 AppStore 검색어",
+    "keywords": [
+      "레이싱 게임",
+      "레이싱 게임 앱",
+      "레이싱 게임 어필",
+      "레이싱 게임 추천",
+      "자동차 게임",
+      "racing",
+      "드라이빙"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.shooting-game",
+    "title": "슈팅 게임",
+    "body": "슈팅 게임 AppStore 검색어",
+    "keywords": [
+      "슈팅 게임",
+      "슈팅 게임 앱",
+      "슈팅 게임 어필",
+      "슈팅 게임 추천",
+      "FPS",
+      "TPS",
+      "shooting"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.sports-game",
+    "title": "스포츠 게임",
+    "body": "스포츠 게임 AppStore 검색어",
+    "keywords": [
+      "스포츠 게임",
+      "스포츠 게임 앱",
+      "스포츠 게임 어필",
+      "스포츠 게임 추천",
+      "축구 게임",
+      "야구 게임",
+      "sports"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.match3",
+    "title": "매치3 게임",
+    "body": "매치3 게임 AppStore 검색어",
+    "keywords": [
+      "매치3 게임",
+      "매치3 게임 앱",
+      "매치3 게임 어필",
+      "매치3 게임 추천",
+      "3개 맞추기",
+      "캔디크러시",
+      "match 3"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.hidden-object",
+    "title": "숨은그림찾기",
+    "body": "숨은그림찾기 AppStore 검색어",
+    "keywords": [
+      "숨은그림찾기",
+      "숨은그림찾기 앱",
+      "숨은그림찾기 어필",
+      "숨은그림찾기 추천",
+      "hidden object",
+      "힐링 게임",
+      "퍼즐"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.chess",
+    "title": "체스",
+    "body": "체스 AppStore 검색어",
+    "keywords": [
+      "체스",
+      "체스 앱",
+      "체스 어필",
+      "체스 추천",
+      "chess",
+      "전략",
+      "두뇌 게임"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.baduk",
+    "title": "바둑",
+    "body": "바둑 AppStore 검색어",
+    "keywords": [
+      "바둑",
+      "바둑 앱",
+      "바둑 어필",
+      "바둑 추천",
+      "go game",
+      "오목",
+      "두뇌"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.mahjong",
+    "title": "마작",
+    "body": "마작 AppStore 검색어",
+    "keywords": [
+      "마작",
+      "마작 앱",
+      "마작 어필",
+      "마작 추천",
+      "mahjong",
+      "패",
+      "전략"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.trivia",
+    "title": "퀴즈 게임",
+    "body": "퀴즈 게임 AppStore 검색어",
+    "keywords": [
+      "퀴즈 게임",
+      "퀴즈 게임 앱",
+      "퀴즈 게임 어필",
+      "퀴즈 게임 추천",
+      "trivia",
+      "상식",
+      "퀴즈"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.mmorpg",
+    "title": "MMORPG",
+    "body": "MMORPG AppStore 검색어",
+    "keywords": [
+      "MMORPG",
+      "MMORPG 앱",
+      "MMORPG 어필",
+      "MMORPG 추천",
+      "대규모 RPG",
+      "온라인 게임",
+      "MMO"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.reading",
+    "title": "독서",
+    "body": "독서 AppStore 검색어",
+    "keywords": [
+      "독서",
+      "독서 앱",
+      "독서 어플",
+      "독서 추천",
+      "책",
+      "전자책",
+      "reading"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.ebook",
+    "title": "전자책",
+    "body": "전자책 AppStore 검색어",
+    "keywords": [
+      "전자책",
+      "전자책 앱",
+      "전자책 어필",
+      "전자책 추천",
+      "ebook",
+      "리더기",
+      "책"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.news",
+    "title": "뉴스",
+    "body": "뉴스 AppStore 검색어",
+    "keywords": [
+      "뉴스",
+      "뉴스 앱",
+      "뉴스 어필",
+      "뉴스 추천",
+      "news",
+      "신문",
+      "기사"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.webtoon",
+    "title": "웹툰",
+    "body": "웹툰 AppStore 검색어",
+    "keywords": [
+      "웹툰",
+      "웹툰 앱",
+      "웹툰 어필",
+      "웹툰 추천",
+      "만화",
+      "웹만화",
+      "webtoon"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.comic",
+    "title": "만화",
+    "body": "만화 AppStore 검색어",
+    "keywords": [
+      "만화",
+      "만화 앱",
+      "만화 어필",
+      "만화 추천",
+      "코믹",
+      "manhwa",
+      "comic"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.novel",
+    "title": "소설",
+    "body": "소설 AppStore 검색어",
+    "keywords": [
+      "소설",
+      "소설 앱",
+      "소설 어필",
+      "소설 추천",
+      "웹소설",
+      "novel",
+      "문학"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.magazine",
+    "title": "잡지",
+    "body": "잡지 AppStore 검색어",
+    "keywords": [
+      "잡지",
+      "잡지 앱",
+      "잡지 어필",
+      "잡지 추천",
+      "magazine",
+      "디지털 잡지",
+      "구독"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.sports-news",
+    "title": "스포츠 뉴스",
+    "body": "스포츠 뉴스 AppStore 검색어",
+    "keywords": [
+      "스포츠 뉴스",
+      "스포츠 뉴스 앱",
+      "스포츠 뉴스 어필",
+      "스포츠 뉴스 추천",
+      "야구",
+      "축구",
+      "농구"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.book-review",
+    "title": "독후감",
+    "body": "독후감 AppStore 검색어",
+    "keywords": [
+      "독후감",
+      "독후감 앱",
+      "독후감 어필",
+      "독후감 추천",
+      "책 리뷰",
+      "서평",
+      "독서 기록"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.bookmarks",
+    "title": "북마크",
+    "body": "북마크 AppStore 검색어",
+    "keywords": [
+      "북마크",
+      "북마크 앱",
+      "북마크 어필",
+      "북마크 추천",
+      "즐겨찾기",
+      "나중에 읽기",
+      "Read Later"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.rss",
+    "title": "RSS 리더",
+    "body": "RSS 리더 AppStore 검색어",
+    "keywords": [
+      "RSS 리더",
+      "RSS 리더 앱",
+      "RSS 리더 어필",
+      "RSS 리더 추천",
+      "RSS",
+      "뉴스 구독",
+      "피드"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.library",
+    "title": "도서관",
+    "body": "도서관 AppStore 검색어",
+    "keywords": [
+      "도서관",
+      "도서관 앱",
+      "도서관 어필",
+      "도서관 추천",
+      "대출",
+      "library",
+      "책 검색"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.kakaotalk",
+    "title": "카카오톡",
+    "body": "카카오톡 AppStore 검색어",
+    "keywords": [
+      "카카오톡",
+      "카카오톡 앱",
+      "카카오톡 어필",
+      "카카오톡 추천",
+      "메신저",
+      "채팅",
+      "kakaotalk"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.instagram",
+    "title": "인스타그램",
+    "body": "인스타그램 AppStore 검색어",
+    "keywords": [
+      "인스타그램",
+      "인스타그램 앱",
+      "인스타그램 어필",
+      "인스타그램 추천",
+      "사진",
+      "소셜",
+      "instagram"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.youtube",
+    "title": "유튜브",
+    "body": "유튜브 AppStore 검색어",
+    "keywords": [
+      "유튜브",
+      "유튜브 앱",
+      "유튜브 어필",
+      "유튜브 추천",
+      "영상",
+      "동영상",
+      "youtube"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.twitter",
+    "title": "트위터",
+    "body": "트위터 AppStore 검색어",
+    "keywords": [
+      "트위터",
+      "트위터 앱",
+      "트위터 어필",
+      "트위터 추천",
+      "X",
+      "SNS",
+      "twitter"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.tiktok",
+    "title": "틱톡",
+    "body": "틱톡 AppStore 검색어",
+    "keywords": [
+      "틱톡",
+      "틱톡 앱",
+      "틱톡 어필",
+      "틱톡 추천",
+      "TikTok",
+      "숏폼",
+      "동영상"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.facebook",
+    "title": "페이스북",
+    "body": "페이스북 AppStore 검색어",
+    "keywords": [
+      "페이스북",
+      "페이스북 앱",
+      "페이스북 어필",
+      "페이스북 추천",
+      "facebook",
+      "소셜",
+      "SNS"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.linkedin",
+    "title": "링크드인",
+    "body": "링크드인 AppStore 검색어",
+    "keywords": [
+      "링크드인",
+      "링크드인 앱",
+      "링크드인 어필",
+      "링크드인 추천",
+      "linkedin",
+      "직장",
+      "구직"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.discord",
+    "title": "디스코드",
+    "body": "디스코드 AppStore 검색어",
+    "keywords": [
+      "디스코드",
+      "디스코드 앱",
+      "디스코드 어필",
+      "디스코드 추천",
+      "discord",
+      "커뮤니티",
+      "채팅"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.zoom",
+    "title": "줌",
+    "body": "줌 AppStore 검색어",
+    "keywords": [
+      "줌",
+      "줌 앱",
+      "줌 어필",
+      "줌 추천",
+      "zoom",
+      "화상회의",
+      "원격 회의"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.teams",
+    "title": "팀즈",
+    "body": "팀즈 AppStore 검색어",
+    "keywords": [
+      "팀즈",
+      "팀즈 앱",
+      "팀즈 어필",
+      "팀즈 추천",
+      "teams",
+      "Microsoft Teams",
+      "업무 채팅"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.slack",
+    "title": "슬랙",
+    "body": "슬랙 AppStore 검색어",
+    "keywords": [
+      "슬랙",
+      "슬랙 앱",
+      "슬랙 어필",
+      "슬랙 추천",
+      "slack",
+      "업무",
+      "채팅"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.telegram",
+    "title": "텔레그램",
+    "body": "텔레그램 AppStore 검색어",
+    "keywords": [
+      "텔레그램",
+      "텔레그램 앱",
+      "텔레그램 어필",
+      "텔레그램 추천",
+      "telegram",
+      "보안 메신저",
+      "채팅"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.band",
+    "title": "밴드",
+    "body": "밴드 AppStore 검색어",
+    "keywords": [
+      "밴드",
+      "밴드 앱",
+      "밴드 어필",
+      "밴드 추천",
+      "BAND",
+      "그룹",
+      "커뮤니티"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.blind",
+    "title": "블라인드",
+    "body": "블라인드 AppStore 검색어",
+    "keywords": [
+      "블라인드",
+      "블라인드 앱",
+      "블라인드 어필",
+      "블라인드 추천",
+      "직장인",
+      "익명",
+      "커뮤니티"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.naver",
+    "title": "네이버",
+    "body": "네이버 AppStore 검색어",
+    "keywords": [
+      "네이버",
+      "네이버 앱",
+      "네이버 어필",
+      "네이버 추천",
+      "검색",
+      "포털",
+      "naver"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.google",
+    "title": "구글",
+    "body": "구글 AppStore 검색어",
+    "keywords": [
+      "구글",
+      "구글 앱",
+      "구글 어필",
+      "구글 추천",
+      "google",
+      "검색 엔진",
+      "인터넷"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.daum",
+    "title": "다음",
+    "body": "다음 AppStore 검색어",
+    "keywords": [
+      "다음",
+      "다음 앱",
+      "다음 어필",
+      "다음 추천",
+      "daum",
+      "카카오",
+      "포털"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.naver-knowledge",
+    "title": "네이버 지식인",
+    "body": "네이버 지식인 AppStore 검색어",
+    "keywords": [
+      "네이버 지식인",
+      "네이버 지식인 앱",
+      "네이버 지식인 어필",
+      "네이버 지식인 추천",
+      "질문 답변",
+      "지식인",
+      "QnA"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.naver-cafe",
+    "title": "네이버 카페",
+    "body": "네이버 카페 AppStore 검색어",
+    "keywords": [
+      "네이버 카페",
+      "네이버 카페 앱",
+      "네이버 카페 어필",
+      "네이버 카페 추천",
+      "커뮤니티",
+      "naver cafe",
+      "게시판"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.wikipedia",
+    "title": "위키피디아",
+    "body": "위키피디아 AppStore 검색어",
+    "keywords": [
+      "위키피디아",
+      "위키피디아 앱",
+      "위키피디아 어필",
+      "위키피디아 추천",
+      "wikipedia",
+      "백과사전",
+      "정보"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.browser",
+    "title": "브라우저",
+    "body": "브라우저 AppStore 검색어",
+    "keywords": [
+      "브라우저",
+      "브라우저 앱",
+      "브라우저 어필",
+      "브라우저 추천",
+      "safari",
+      "chrome",
+      "인터넷"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.youtube-music",
+    "title": "유튜브 뮤직",
+    "body": "유튜브 뮤직 AppStore 검색어",
+    "keywords": [
+      "유튜브 뮤직",
+      "유튜브 뮤직 앱",
+      "유튜브 뮤직 어필",
+      "유튜브 뮤직 추천",
+      "YouTube Music",
+      "음악 스트리밍",
+      "뮤직"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.google-maps",
+    "title": "구글 지도",
+    "body": "구글 지도 AppStore 검색어",
+    "keywords": [
+      "구글 지도",
+      "구글 지도 앱",
+      "구글 지도 어필",
+      "구글 지도 추천",
+      "Google Maps",
+      "내비게이션",
+      "길찾기"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.google-translate",
+    "title": "구글 번역",
+    "body": "구글 번역 AppStore 검색어",
+    "keywords": [
+      "구글 번역",
+      "구글 번역 앱",
+      "구글 번역 어필",
+      "구글 번역 추천",
+      "Google Translate",
+      "번역기",
+      "통역"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.coupang",
+    "title": "쿠팡",
+    "body": "쿠팡 AppStore 검색어",
+    "keywords": [
+      "쿠팡",
+      "쿠팡 앱",
+      "쿠팡 어필",
+      "쿠팡 추천",
+      "쇼핑",
+      "배송",
+      "coupang"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.baemin",
+    "title": "배달의민족",
+    "body": "배달의민족 AppStore 검색어",
+    "keywords": [
+      "배달의민족",
+      "배달의민족 앱",
+      "배달의민족 어필",
+      "배달의민족 추천",
+      "배달",
+      "음식",
+      "baemin"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.yogiyo",
+    "title": "요기요",
+    "body": "요기요 AppStore 검색어",
+    "keywords": [
+      "요기요",
+      "요기요 앱",
+      "요기요 어필",
+      "요기요 추천",
+      "음식 배달",
+      "배달",
+      "yogiyo"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.market-kurly",
+    "title": "마켓컬리",
+    "body": "마켓컬리 AppStore 검색어",
+    "keywords": [
+      "마켓컬리",
+      "마켓컬리 앱",
+      "마켓컬리 어필",
+      "마켓컬리 추천",
+      "새벽 배송",
+      "신선식품",
+      "kurly"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.daangn",
+    "title": "당근",
+    "body": "당근 AppStore 검색어",
+    "keywords": [
+      "당근",
+      "당근 앱",
+      "당근 어필",
+      "당근 추천",
+      "중고거래",
+      "동네",
+      "daangn"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.gmarket",
+    "title": "G마켓",
+    "body": "G마켓 AppStore 검색어",
+    "keywords": [
+      "G마켓",
+      "G마켓 앱",
+      "G마켓 어필",
+      "G마켓 추천",
+      "쇼핑몰",
+      "gmarket",
+      "온라인 쇼핑"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.11st",
+    "title": "11번가",
+    "body": "11번가 AppStore 검색어",
+    "keywords": [
+      "11번가",
+      "11번가 앱",
+      "11번가 어필",
+      "11번가 추천",
+      "쇼핑",
+      "오픈마켓",
+      "11st"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.ably",
+    "title": "에이블리",
+    "body": "에이블리 AppStore 검색어",
+    "keywords": [
+      "에이블리",
+      "에이블리 앱",
+      "에이블리 어필",
+      "에이블리 추천",
+      "패션",
+      "의류",
+      "ably"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.musinsa",
+    "title": "무신사",
+    "body": "무신사 AppStore 검색어",
+    "keywords": [
+      "무신사",
+      "무신사 앱",
+      "무신사 어필",
+      "무신사 추천",
+      "패션",
+      "의류",
+      "musinsa"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.zigzag",
+    "title": "지그재그",
+    "body": "지그재그 AppStore 검색어",
+    "keywords": [
+      "지그재그",
+      "지그재그 앱",
+      "지그재그 어필",
+      "지그재그 추천",
+      "여성 쇼핑",
+      "패션",
+      "zigzag"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.auction",
+    "title": "옥션",
+    "body": "옥션 AppStore 검색어",
+    "keywords": [
+      "옥션",
+      "옥션 앱",
+      "옥션 어필",
+      "옥션 추천",
+      "경매",
+      "쇼핑",
+      "auction"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.used-trade",
+    "title": "중고거래",
+    "body": "중고거래 AppStore 검색어",
+    "keywords": [
+      "중고거래",
+      "중고거래 앱",
+      "중고거래 어필",
+      "중고거래 추천",
+      "번개장터",
+      "중고나라",
+      "당근"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.food-delivery",
+    "title": "음식 배달",
+    "body": "음식 배달 AppStore 검색어",
+    "keywords": [
+      "음식 배달",
+      "음식 배달 앱",
+      "음식 배달 어필",
+      "음식 배달 추천",
+      "배달 음식",
+      "주문",
+      "delivery"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.toss",
+    "title": "토스",
+    "body": "토스 AppStore 검색어",
+    "keywords": [
+      "토스",
+      "토스 앱",
+      "토스 어필",
+      "토스 추천",
+      "금융",
+      "송금",
+      "toss"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.kakaobank",
+    "title": "카카오뱅크",
+    "body": "카카오뱅크 AppStore 검색어",
+    "keywords": [
+      "카카오뱅크",
+      "카카오뱅크 앱",
+      "카카오뱅크 어필",
+      "카카오뱅크 추천",
+      "인터넷 은행",
+      "송금",
+      "kakaobank",
+      "카뱅"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.kbank",
+    "title": "케이뱅크",
+    "body": "케이뱅크 AppStore 검색어",
+    "keywords": [
+      "케이뱅크",
+      "케이뱅크 앱",
+      "케이뱅크 어필",
+      "케이뱅크 추천",
+      "인터넷 은행",
+      "kbank",
+      "온라인 뱅킹"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.shinhan",
+    "title": "신한은행",
+    "body": "신한은행 AppStore 검색어",
+    "keywords": [
+      "신한은행",
+      "신한은행 앱",
+      "신한은행 어필",
+      "신한은행 추천",
+      "은행",
+      "뱅킹",
+      "shinhan"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.kb-bank",
+    "title": "국민은행",
+    "body": "국민은행 AppStore 검색어",
+    "keywords": [
+      "국민은행",
+      "국민은행 앱",
+      "국민은행 어필",
+      "국민은행 추천",
+      "KB",
+      "스타뱅킹",
+      "뱅킹"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.woori-bank",
+    "title": "우리은행",
+    "body": "우리은행 AppStore 검색어",
+    "keywords": [
+      "우리은행",
+      "우리은행 앱",
+      "우리은행 어필",
+      "우리은행 추천",
+      "뱅킹",
+      "은행",
+      "woori"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.hana-bank",
+    "title": "하나은행",
+    "body": "하나은행 AppStore 검색어",
+    "keywords": [
+      "하나은행",
+      "하나은행 앱",
+      "하나은행 어필",
+      "하나은행 추천",
+      "뱅킹",
+      "은행",
+      "hana"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.naver-pay",
+    "title": "네이버페이",
+    "body": "네이버페이 AppStore 검색어",
+    "keywords": [
+      "네이버페이",
+      "네이버페이 앱",
+      "네이버페이 어필",
+      "네이버페이 추천",
+      "간편결제",
+      "결제",
+      "naver pay"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.kakao-pay",
+    "title": "카카오페이",
+    "body": "카카오페이 AppStore 검색어",
+    "keywords": [
+      "카카오페이",
+      "카카오페이 앱",
+      "카카오페이 어필",
+      "카카오페이 추천",
+      "간편결제",
+      "결제",
+      "kakao pay"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.zero-pay",
+    "title": "제로페이",
+    "body": "제로페이 AppStore 검색어",
+    "keywords": [
+      "제로페이",
+      "제로페이 앱",
+      "제로페이 어필",
+      "제로페이 추천",
+      "간편결제",
+      "QR 결제",
+      "zero pay"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.travel",
+    "title": "여행",
+    "body": "여행 AppStore 검색어",
+    "keywords": [
+      "여행",
+      "여행 앱",
+      "여행 어필",
+      "여행 추천",
+      "해외여행",
+      "국내 여행",
+      "travel"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.flight",
+    "title": "항공권",
+    "body": "항공권 AppStore 검색어",
+    "keywords": [
+      "항공권",
+      "항공권 앱",
+      "항공권 어필",
+      "항공권 추천",
+      "비행기",
+      "저가항공",
+      "flight"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.hotel",
+    "title": "호텔",
+    "body": "호텔 AppStore 검색어",
+    "keywords": [
+      "호텔",
+      "호텔 앱",
+      "호텔 어필",
+      "호텔 추천",
+      "숙박",
+      "hotel",
+      "예약"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.car-sharing",
+    "title": "카쉐어링",
+    "body": "카쉐어링 AppStore 검색어",
+    "keywords": [
+      "카쉐어링",
+      "카쉐어링 앱",
+      "카쉐어링 어필",
+      "카쉐어링 추천",
+      "렌터카",
+      "car sharing",
+      "쏘카"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.designated-driver",
+    "title": "대리운전",
+    "body": "대리운전 AppStore 검색어",
+    "keywords": [
+      "대리운전",
+      "대리운전 앱",
+      "대리운전 어필",
+      "대리운전 추천",
+      "카카오 대리",
+      "음주 운전",
+      "대리"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.train",
+    "title": "기차",
+    "body": "기차 AppStore 검색어",
+    "keywords": [
+      "기차",
+      "기차 앱",
+      "기차 어필",
+      "기차 추천",
+      "KTX",
+      "기차표",
+      "열차"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.ticket",
+    "title": "티켓",
+    "body": "티켓 AppStore 검색어",
+    "keywords": [
+      "티켓",
+      "티켓 앱",
+      "티켓 어필",
+      "티켓 추천",
+      "예매",
+      "공연 티켓",
+      "ticket"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.accommodation",
+    "title": "숙박",
+    "body": "숙박 AppStore 검색어",
+    "keywords": [
+      "숙박",
+      "숙박 앱",
+      "숙박 어필",
+      "숙박 추천",
+      "에어비앤비",
+      "펜션",
+      "airbnb"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.camping",
+    "title": "캠핑",
+    "body": "캠핑 AppStore 검색어",
+    "keywords": [
+      "캠핑",
+      "캠핑 앱",
+      "캠핑 어필",
+      "캠핑 추천",
+      "캠핑장",
+      "야외",
+      "camping"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.restaurant",
+    "title": "맛집",
+    "body": "맛집 AppStore 검색어",
+    "keywords": [
+      "맛집",
+      "맛집 앱",
+      "맛집 어필",
+      "맛집 추천",
+      "음식점",
+      "레스토랑",
+      "식당"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.currency",
+    "title": "환전",
+    "body": "환전 AppStore 검색어",
+    "keywords": [
+      "환전",
+      "환전 앱",
+      "환전 어필",
+      "환전 추천",
+      "외화",
+      "달러 환전",
+      "currency"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.travel-plan",
+    "title": "여행 계획",
+    "body": "여행 계획 AppStore 검색어",
+    "keywords": [
+      "여행 계획",
+      "여행 계획 앱",
+      "여행 계획 어필",
+      "여행 계획 추천",
+      "여행 일정",
+      "trip planner",
+      "여행 준비"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.visa",
+    "title": "비자",
+    "body": "비자 AppStore 검색어",
+    "keywords": [
+      "비자",
+      "비자 앱",
+      "비자 어필",
+      "비자 추천",
+      "여권",
+      "입국",
+      "visa"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.travel-translator",
+    "title": "여행 통역",
+    "body": "여행 통역 AppStore 검색어",
+    "keywords": [
+      "여행 통역",
+      "여행 통역 앱",
+      "여행 통역 어필",
+      "여행 통역 추천",
+      "여행 번역",
+      "해외 여행",
+      "통역"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.file-manager",
+    "title": "파일관리",
+    "body": "파일관리 AppStore 검색어",
+    "keywords": [
+      "파일관리",
+      "파일관리 앱",
+      "파일관리 어필",
+      "파일관리 추천",
+      "파일 탐색기",
+      "file manager",
+      "파일"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.qr-code",
+    "title": "QR코드",
+    "body": "QR코드 AppStore 검색어",
+    "keywords": [
+      "QR코드",
+      "QR코드 앱",
+      "QR코드 어필",
+      "QR코드 추천",
+      "QR 스캔",
+      "바코드",
+      "QR"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.battery",
+    "title": "배터리",
+    "body": "배터리 AppStore 검색어",
+    "keywords": [
+      "배터리",
+      "배터리 앱",
+      "배터리 어필",
+      "배터리 추천",
+      "충전",
+      "배터리 절약",
+      "battery"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.wifi",
+    "title": "WiFi",
+    "body": "WiFi AppStore 검색어",
+    "keywords": [
+      "WiFi",
+      "WiFi 앱",
+      "WiFi 어필",
+      "WiFi 추천",
+      "와이파이",
+      "인터넷",
+      "무선"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.bluetooth",
+    "title": "블루투스",
+    "body": "블루투스 AppStore 검색어",
+    "keywords": [
+      "블루투스",
+      "블루투스 앱",
+      "블루투스 어필",
+      "블루투스 추천",
+      "bluetooth",
+      "무선 연결",
+      "페어링"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.calculator",
+    "title": "계산기",
+    "body": "계산기 AppStore 검색어",
+    "keywords": [
+      "계산기",
+      "계산기 앱",
+      "계산기 어필",
+      "계산기 추천",
+      "calculator",
+      "연산",
+      "공학 계산기"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.unit-converter",
+    "title": "단위 변환",
+    "body": "단위 변환 AppStore 검색어",
+    "keywords": [
+      "단위 변환",
+      "단위 변환 앱",
+      "단위 변환 어필",
+      "단위 변환 추천",
+      "unit converter",
+      "환산",
+      "변환"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.vpn",
+    "title": "VPN",
+    "body": "VPN AppStore 검색어",
+    "keywords": [
+      "VPN",
+      "VPN 앱",
+      "VPN 어필",
+      "VPN 추천",
+      "보안",
+      "익명",
+      "vpn"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.antivirus",
+    "title": "바이러스 백신",
+    "body": "바이러스 백신 AppStore 검색어",
+    "keywords": [
+      "바이러스 백신",
+      "바이러스 백신 앱",
+      "바이러스 백신 어필",
+      "바이러스 백신 추천",
+      "antivirus",
+      "보안",
+      "악성코드"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.remote-desktop",
+    "title": "원격 데스크탑",
+    "body": "원격 데스크탑 AppStore 검색어",
+    "keywords": [
+      "원격 데스크탑",
+      "원격 데스크탑 앱",
+      "원격 데스크탑 어필",
+      "원격 데스크탑 추천",
+      "remote desktop",
+      "원격 제어",
+      "PC 원격"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.zip",
+    "title": "압축",
+    "body": "압축 AppStore 검색어",
+    "keywords": [
+      "압축",
+      "압축 앱",
+      "압축 어필",
+      "압축 추천",
+      "zip",
+      "압축 해제",
+      "파일 압축"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.ftp",
+    "title": "FTP",
+    "body": "FTP AppStore 검색어",
+    "keywords": [
+      "FTP",
+      "FTP 앱",
+      "FTP 어필",
+      "FTP 추천",
+      "파일 전송",
+      "file transfer",
+      "서버"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.system-monitor",
+    "title": "시스템 모니터",
+    "body": "시스템 모니터 AppStore 검색어",
+    "keywords": [
+      "시스템 모니터",
+      "시스템 모니터 앱",
+      "시스템 모니터 어필",
+      "시스템 모니터 추천",
+      "CPU",
+      "메모리",
+      "성능"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.dark-mode",
+    "title": "다크모드",
+    "body": "다크모드 AppStore 검색어",
+    "keywords": [
+      "다크모드",
+      "다크모드 앱",
+      "다크모드 어필",
+      "다크모드 추천",
+      "dark mode",
+      "밝기",
+      "야간"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.screen-time",
+    "title": "화면 시간",
+    "body": "화면 시간 AppStore 검색어",
+    "keywords": [
+      "화면 시간",
+      "화면 시간 앱",
+      "화면 시간 어필",
+      "화면 시간 추천",
+      "screen time",
+      "스마트폰 사용 시간",
+      "디지털 웰빙"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.font",
+    "title": "폰트",
+    "body": "폰트 AppStore 검색어",
+    "keywords": [
+      "폰트",
+      "폰트 앱",
+      "폰트 어필",
+      "폰트 추천",
+      "font",
+      "글꼴",
+      "서체"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.widget",
+    "title": "위젯",
+    "body": "위젯 AppStore 검색어",
+    "keywords": [
+      "위젯",
+      "위젯 앱",
+      "위젯 어필",
+      "위젯 추천",
+      "widget",
+      "홈 화면",
+      "잠금 화면"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.flashlight",
+    "title": "손전등",
+    "body": "손전등 AppStore 검색어",
+    "keywords": [
+      "손전등",
+      "손전등 앱",
+      "손전등 어필",
+      "손전등 추천",
+      "flashlight",
+      "라이트",
+      "懐中電灯"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.magnifier",
+    "title": "돋보기",
+    "body": "돋보기 AppStore 검색어",
+    "keywords": [
+      "돋보기",
+      "돋보기 앱",
+      "돋보기 어필",
+      "돋보기 추천",
+      "magnifier",
+      "확대",
+      "글자 크게"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.measure",
+    "title": "측정",
+    "body": "측정 AppStore 검색어",
+    "keywords": [
+      "측정",
+      "측정 앱",
+      "측정 어필",
+      "측정 추천",
+      "자",
+      "거리 측정",
+      "AR 측정"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.parenting",
+    "title": "육아",
+    "body": "육아 AppStore 검색어",
+    "keywords": [
+      "육아",
+      "육아 앱",
+      "육아 어필",
+      "육아 추천",
+      "아기",
+      "영유아",
+      "parenting"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.prenatal",
+    "title": "태교",
+    "body": "태교 AppStore 검색어",
+    "keywords": [
+      "태교",
+      "태교 앱",
+      "태교 어필",
+      "태교 추천",
+      "임산부",
+      "태아",
+      "prenatal"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.kids-education",
+    "title": "어린이 교육",
+    "body": "어린이 교육 AppStore 검색어",
+    "keywords": [
+      "어린이 교육",
+      "어린이 교육 앱",
+      "어린이 교육 어필",
+      "어린이 교육 추천",
+      "유아",
+      "학습",
+      "kids"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.academy",
+    "title": "학원",
+    "body": "학원 AppStore 검색어",
+    "keywords": [
+      "학원",
+      "학원 앱",
+      "학원 어필",
+      "학원 추천",
+      "학습 관리",
+      "과외",
+      "academy"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.baby-monitor",
+    "title": "베이비 모니터",
+    "body": "베이비 모니터 AppStore 검색어",
+    "keywords": [
+      "베이비 모니터",
+      "베이비 모니터 앱",
+      "베이비 모니터 어필",
+      "베이비 모니터 추천",
+      "아기 모니터",
+      "육아 카메라",
+      "baby monitor"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.baby-growth",
+    "title": "아기 성장",
+    "body": "아기 성장 AppStore 검색어",
+    "keywords": [
+      "아기 성장",
+      "아기 성장 앱",
+      "아기 성장 어필",
+      "아기 성장 추천",
+      "신장 체중",
+      "아기 일기",
+      "성장 기록"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.kids-game",
+    "title": "어린이 게임",
+    "body": "어린이 게임 AppStore 검색어",
+    "keywords": [
+      "어린이 게임",
+      "어린이 게임 앱",
+      "어린이 게임 어필",
+      "어린이 게임 추천",
+      "아동",
+      "교육 게임",
+      "kids game"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.math-kids",
+    "title": "수학 학습",
+    "body": "수학 학습 AppStore 검색어",
+    "keywords": [
+      "수학 학습",
+      "수학 학습 앱",
+      "수학 학습 어필",
+      "수학 학습 추천",
+      "연산",
+      "덧셈",
+      "초등 수학"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.reading-kids",
+    "title": "한글 학습",
+    "body": "한글 학습 AppStore 검색어",
+    "keywords": [
+      "한글 학습",
+      "한글 학습 앱",
+      "한글 학습 어필",
+      "한글 학습 추천",
+      "한글 공부",
+      "자음 모음",
+      "유아 한글"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.college-entrance",
+    "title": "수능",
+    "body": "수능 AppStore 검색어",
+    "keywords": [
+      "수능",
+      "수능 앱",
+      "수능 어필",
+      "수능 추천",
+      "대학수학능력시험",
+      "입시",
+      "공부"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.school-life",
+    "title": "학교 생활",
+    "body": "학교 생활 AppStore 검색어",
+    "keywords": [
+      "학교 생활",
+      "학교 생활 앱",
+      "학교 생활 어필",
+      "학교 생활 추천",
+      "시간표",
+      "학사 일정",
+      "학생"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.certificate",
+    "title": "자격증",
+    "body": "자격증 AppStore 검색어",
+    "keywords": [
+      "자격증",
+      "자격증 앱",
+      "자격증 어필",
+      "자격증 추천",
+      "공인",
+      "시험 준비",
+      "certificate"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.jazz",
+    "title": "재즈",
+    "body": "재즈 AppStore 검색어",
+    "keywords": [
+      "재즈",
+      "재즈 앱",
+      "재즈 어필",
+      "재즈 추천",
+      "jazz",
+      "스윙",
+      "빅밴드"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.indie-music",
+    "title": "인디 음악",
+    "body": "인디 음악 AppStore 검색어",
+    "keywords": [
+      "인디 음악",
+      "인디 음악 앱",
+      "인디 음악 어필",
+      "인디 음악 추천",
+      "indie",
+      "인디 밴드",
+      "얼터너티브"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.music-alarm",
+    "title": "음악 알람",
+    "body": "음악 알람 AppStore 검색어",
+    "keywords": [
+      "음악 알람",
+      "음악 알람 앱",
+      "음악 알람 어필",
+      "음악 알람 추천",
+      "알람 음악",
+      "기상 음악",
+      "노래 알람"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.concert",
+    "title": "콘서트",
+    "body": "콘서트 AppStore 검색어",
+    "keywords": [
+      "콘서트",
+      "콘서트 앱",
+      "콘서트 어필",
+      "콘서트 추천",
+      "공연",
+      "라이브",
+      "concert"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.idol",
+    "title": "아이돌",
+    "body": "아이돌 AppStore 검색어",
+    "keywords": [
+      "아이돌",
+      "아이돌 앱",
+      "아이돌 어필",
+      "아이돌 추천",
+      "kpop",
+      "케이팝",
+      "팬덤"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.kpop",
+    "title": "케이팝",
+    "body": "케이팝 AppStore 검색어",
+    "keywords": [
+      "케이팝",
+      "케이팝 앱",
+      "케이팝 어필",
+      "케이팝 추천",
+      "K-POP",
+      "한국 음악",
+      "아이돌"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.project-management",
+    "title": "프로젝트 관리",
+    "body": "프로젝트 관리 AppStore 검색어",
+    "keywords": [
+      "프로젝트 관리",
+      "프로젝트 관리 앱",
+      "프로젝트 관리 어필",
+      "프로젝트 관리 추천",
+      "업무",
+      "협업",
+      "project"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.kanban",
+    "title": "칸반",
+    "body": "칸반 AppStore 검색어",
+    "keywords": [
+      "칸반",
+      "칸반 앱",
+      "칸반 어필",
+      "칸반 추천",
+      "kanban",
+      "업무 보드",
+      "태스크"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.invoice",
+    "title": "견적서",
+    "body": "견적서 AppStore 검색어",
+    "keywords": [
+      "견적서",
+      "견적서 앱",
+      "견적서 어필",
+      "견적서 추천",
+      "invoice",
+      "세금계산서",
+      "비즈니스"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.contract",
+    "title": "계약서",
+    "body": "계약서 AppStore 검색어",
+    "keywords": [
+      "계약서",
+      "계약서 앱",
+      "계약서 어필",
+      "계약서 추천",
+      "전자서명",
+      "contract",
+      "문서"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.business-card",
+    "title": "명함",
+    "body": "명함 AppStore 검색어",
+    "keywords": [
+      "명함",
+      "명함 앱",
+      "명함 어필",
+      "명함 추천",
+      "business card",
+      "명함 관리",
+      "연락처"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.conference",
+    "title": "회의",
+    "body": "회의 AppStore 검색어",
+    "keywords": [
+      "회의",
+      "회의 앱",
+      "회의 어필",
+      "회의 추천",
+      "화상회의",
+      "원격 회의",
+      "meeting"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.presentation-tool",
+    "title": "발표 도구",
+    "body": "발표 도구 AppStore 검색어",
+    "keywords": [
+      "발표 도구",
+      "발표 도구 앱",
+      "발표 도구 어필",
+      "발표 도구 추천",
+      "발표",
+      "프레젠테이션",
+      "슬라이드"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.team-collaboration",
+    "title": "팀 협업",
+    "body": "팀 협업 AppStore 검색어",
+    "keywords": [
+      "팀 협업",
+      "팀 협업 앱",
+      "팀 협업 어필",
+      "팀 협업 추천",
+      "협업 툴",
+      "팀워크",
+      "collaboration"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.gantt",
+    "title": "간트 차트",
+    "body": "간트 차트 AppStore 검색어",
+    "keywords": [
+      "간트 차트",
+      "간트 차트 앱",
+      "간트 차트 어필",
+      "간트 차트 추천",
+      "gantt",
+      "일정 관리",
+      "프로젝트"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.whiteboard",
+    "title": "화이트보드",
+    "body": "화이트보드 AppStore 검색어",
+    "keywords": [
+      "화이트보드",
+      "화이트보드 앱",
+      "화이트보드 어필",
+      "화이트보드 추천",
+      "whiteboard",
+      "브레인스토밍",
+      "온라인 보드"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.sunset",
+    "title": "일출 일몰",
+    "body": "일출 일몰 AppStore 검색어",
+    "keywords": [
+      "일출 일몰",
+      "일출 일몰 앱",
+      "일출 일몰 어필",
+      "일출 일몰 추천",
+      "sunrise",
+      "sunset",
+      "해뜨는 시간"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.moon",
+    "title": "달",
+    "body": "달 AppStore 검색어",
+    "keywords": [
+      "달",
+      "달 앱",
+      "달 어필",
+      "달 추천",
+      "moon",
+      "달의 위상",
+      "음력"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.tide",
+    "title": "조수",
+    "body": "조수 AppStore 검색어",
+    "keywords": [
+      "조수",
+      "조수 앱",
+      "조수 어필",
+      "조수 추천",
+      "tide",
+      "물때",
+      "낚시 날씨"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.earthquake",
+    "title": "지진",
+    "body": "지진 AppStore 검색어",
+    "keywords": [
+      "지진",
+      "지진 앱",
+      "지진 어필",
+      "지진 추천",
+      "earthquake",
+      "재난",
+      "알림"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.typhoon",
+    "title": "태풍",
+    "body": "태풍 AppStore 검색어",
+    "keywords": [
+      "태풍",
+      "태풍 앱",
+      "태풍 어필",
+      "태풍 추천",
+      "typhoon",
+      "날씨 재난",
+      "기상청"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.uv-index",
+    "title": "자외선",
+    "body": "자외선 AppStore 검색어",
+    "keywords": [
+      "자외선",
+      "자외선 앱",
+      "자외선 어필",
+      "자외선 추천",
+      "UV",
+      "자외선 지수",
+      "선크림"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.farming-calendar",
+    "title": "농사 달력",
+    "body": "농사 달력 AppStore 검색어",
+    "keywords": [
+      "농사 달력",
+      "농사 달력 앱",
+      "농사 달력 어필",
+      "농사 달력 추천",
+      "절기",
+      "농업",
+      "24절기"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.holiday",
+    "title": "공휴일",
+    "body": "공휴일 AppStore 검색어",
+    "keywords": [
+      "공휴일",
+      "공휴일 앱",
+      "공휴일 어필",
+      "공휴일 추천",
+      "휴일",
+      "holiday",
+      "명절"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.panorama",
+    "title": "파노라마",
+    "body": "파노라마 AppStore 검색어",
+    "keywords": [
+      "파노라마",
+      "파노라마 앱",
+      "파노라마 어필",
+      "파노라마 추천",
+      "panorama",
+      "360도 사진",
+      "넓은 사진"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.hdr-camera",
+    "title": "HDR 카메라",
+    "body": "HDR 카메라 AppStore 검색어",
+    "keywords": [
+      "HDR 카메라",
+      "HDR 카메라 앱",
+      "HDR 카메라 어필",
+      "HDR 카메라 추천",
+      "HDR",
+      "고다이나믹",
+      "사진"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.photo-restoration",
+    "title": "사진 복원",
+    "body": "사진 복원 AppStore 검색어",
+    "keywords": [
+      "사진 복원",
+      "사진 복원 앱",
+      "사진 복원 어필",
+      "사진 복원 추천",
+      "오래된 사진",
+      "photo restore",
+      "AI 보정"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.ai-photo",
+    "title": "AI 사진",
+    "body": "AI 사진 AppStore 검색어",
+    "keywords": [
+      "AI 사진",
+      "AI 사진 앱",
+      "AI 사진 어필",
+      "AI 사진 추천",
+      "AI 보정",
+      "인공지능 사진",
+      "AI 필터"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.photo-frame",
+    "title": "사진 액자",
+    "body": "사진 액자 AppStore 검색어",
+    "keywords": [
+      "사진 액자",
+      "사진 액자 앱",
+      "사진 액자 어필",
+      "사진 액자 추천",
+      "frame",
+      "사진 꾸미기",
+      "포토 프레임"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.video-compress",
+    "title": "동영상 압축",
+    "body": "동영상 압축 AppStore 검색어",
+    "keywords": [
+      "동영상 압축",
+      "동영상 압축 앱",
+      "동영상 압축 어필",
+      "동영상 압축 추천",
+      "video compress",
+      "용량 줄이기",
+      "영상 변환"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.green-screen",
+    "title": "크로마키",
+    "body": "크로마키 AppStore 검색어",
+    "keywords": [
+      "크로마키",
+      "크로마키 앱",
+      "크로마키 어필",
+      "크로마키 추천",
+      "chroma key",
+      "배경 변경",
+      "녹색 배경"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.stop-motion",
+    "title": "스톱모션",
+    "body": "스톱모션 AppStore 검색어",
+    "keywords": [
+      "스톱모션",
+      "스톱모션 앱",
+      "스톱모션 어필",
+      "스톱모션 추천",
+      "stop motion",
+      "애니메이션",
+      "영상"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.commute",
+    "title": "출퇴근",
+    "body": "출퇴근 AppStore 검색어",
+    "keywords": [
+      "출퇴근",
+      "출퇴근 앱",
+      "출퇴근 어필",
+      "출퇴근 추천",
+      "통근",
+      "버스 알림",
+      "교통"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.scooter",
+    "title": "킥보드",
+    "body": "킥보드 AppStore 검색어",
+    "keywords": [
+      "킥보드",
+      "킥보드 앱",
+      "킥보드 어필",
+      "킥보드 추천",
+      "전동 킥보드",
+      "scooter",
+      "공유 킥보드"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.toll-road",
+    "title": "통행료",
+    "body": "통행료 AppStore 검색어",
+    "keywords": [
+      "통행료",
+      "통행료 앱",
+      "통행료 어필",
+      "통행료 추천",
+      "고속도로",
+      "요금소",
+      "toll"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.flight-info",
+    "title": "항공편 조회",
+    "body": "항공편 조회 AppStore 검색어",
+    "keywords": [
+      "항공편 조회",
+      "항공편 조회 앱",
+      "항공편 조회 어필",
+      "항공편 조회 추천",
+      "비행 정보",
+      "공항",
+      "flight info"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.shipping",
+    "title": "배송 조회",
+    "body": "배송 조회 AppStore 검색어",
+    "keywords": [
+      "배송 조회",
+      "배송 조회 앱",
+      "배송 조회 어필",
+      "배송 조회 추천",
+      "택배",
+      "운송장",
+      "배송 추적"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.driver-license",
+    "title": "운전면허",
+    "body": "운전면허 AppStore 검색어",
+    "keywords": [
+      "운전면허",
+      "운전면허 앱",
+      "운전면허 어필",
+      "운전면허 추천",
+      "필기 시험",
+      "도로 교통",
+      "driver license"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.korean-test",
+    "title": "한국어 시험",
+    "body": "한국어 시험 AppStore 검색어",
+    "keywords": [
+      "한국어 시험",
+      "한국어 시험 앱",
+      "한국어 시험 어필",
+      "한국어 시험 추천",
+      "TOPIK",
+      "한국어능력시험",
+      "한국어"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.ielts",
+    "title": "아이엘츠",
+    "body": "아이엘츠 AppStore 검색어",
+    "keywords": [
+      "아이엘츠",
+      "아이엘츠 앱",
+      "아이엘츠 어필",
+      "아이엘츠 추천",
+      "IELTS",
+      "영어 시험",
+      "영국 영어"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.arabic",
+    "title": "아랍어",
+    "body": "아랍어 AppStore 검색어",
+    "keywords": [
+      "아랍어",
+      "아랍어 앱",
+      "아랍어 어필",
+      "아랍어 추천",
+      "arabic",
+      "중동",
+      "외국어"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.italian",
+    "title": "이탈리아어",
+    "body": "이탈리아어 AppStore 검색어",
+    "keywords": [
+      "이탈리아어",
+      "이탈리아어 앱",
+      "이탈리아어 어필",
+      "이탈리아어 추천",
+      "italian",
+      "이탈리어",
+      "외국어"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.portuguese",
+    "title": "포르투갈어",
+    "body": "포르투갈어 AppStore 검색어",
+    "keywords": [
+      "포르투갈어",
+      "포르투갈어 앱",
+      "포르투갈어 어필",
+      "포르투갈어 추천",
+      "portuguese",
+      "브라질",
+      "외국어"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.russian",
+    "title": "러시아어",
+    "body": "러시아어 AppStore 검색어",
+    "keywords": [
+      "러시아어",
+      "러시아어 앱",
+      "러시아어 어필",
+      "러시아어 추천",
+      "russian",
+      "키릴문자",
+      "외국어"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.hiragana",
+    "title": "히라가나",
+    "body": "히라가나 AppStore 검색어",
+    "keywords": [
+      "히라가나",
+      "히라가나 앱",
+      "히라가나 어필",
+      "히라가나 추천",
+      "가타카나",
+      "일본어 공부",
+      "50음도"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.jlpt",
+    "title": "JLPT",
+    "body": "JLPT AppStore 검색어",
+    "keywords": [
+      "JLPT",
+      "JLPT 앱",
+      "JLPT 어필",
+      "JLPT 추천",
+      "일본어능력시험",
+      "일본어 시험",
+      "JPT"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.hsk",
+    "title": "HSK",
+    "body": "HSK AppStore 검색어",
+    "keywords": [
+      "HSK",
+      "HSK 앱",
+      "HSK 어필",
+      "HSK 추천",
+      "중국어 시험",
+      "한어수평고시",
+      "중국어 자격증"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.language-exchange",
+    "title": "언어 교환",
+    "body": "언어 교환 AppStore 검색어",
+    "keywords": [
+      "언어 교환",
+      "언어 교환 앱",
+      "언어 교환 어필",
+      "언어 교환 추천",
+      "language exchange",
+      "외국어 파트너",
+      "회화 연습"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.tennis",
+    "title": "테니스",
+    "body": "테니스 AppStore 검색어",
+    "keywords": [
+      "테니스",
+      "테니스 앱",
+      "테니스 어필",
+      "테니스 추천",
+      "tennis",
+      "라켓",
+      "스코어"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.golf",
+    "title": "골프",
+    "body": "골프 AppStore 검색어",
+    "keywords": [
+      "골프",
+      "골프 앱",
+      "골프 어필",
+      "골프 추천",
+      "golf",
+      "스코어카드",
+      "골프 코스"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.basketball",
+    "title": "농구",
+    "body": "농구 AppStore 검색어",
+    "keywords": [
+      "농구",
+      "농구 앱",
+      "농구 어필",
+      "농구 추천",
+      "basketball",
+      "NBA",
+      "스코어"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.football",
+    "title": "축구",
+    "body": "축구 AppStore 검색어",
+    "keywords": [
+      "축구",
+      "축구 앱",
+      "축구 어필",
+      "축구 추천",
+      "football",
+      "soccer",
+      "리그"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.baseball",
+    "title": "야구",
+    "body": "야구 AppStore 검색어",
+    "keywords": [
+      "야구",
+      "야구 앱",
+      "야구 어필",
+      "야구 추천",
+      "baseball",
+      "KBO",
+      "MLB"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.badminton",
+    "title": "배드민턴",
+    "body": "배드민턴 AppStore 검색어",
+    "keywords": [
+      "배드민턴",
+      "배드민턴 앱",
+      "배드민턴 어필",
+      "배드민턴 추천",
+      "badminton",
+      "셔틀콕",
+      "라켓"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.taekwondo",
+    "title": "태권도",
+    "body": "태권도 AppStore 검색어",
+    "keywords": [
+      "태권도",
+      "태권도 앱",
+      "태권도 어필",
+      "태권도 추천",
+      "taekwondo",
+      "무도",
+      "발차기"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.crossfit",
+    "title": "크로스핏",
+    "body": "크로스핏 AppStore 검색어",
+    "keywords": [
+      "크로스핏",
+      "크로스핏 앱",
+      "크로스핏 어필",
+      "크로스핏 추천",
+      "crossfit",
+      "고강도 운동",
+      "WOD"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.personal-trainer",
+    "title": "PT",
+    "body": "PT AppStore 검색어",
+    "keywords": [
+      "PT",
+      "PT 앱",
+      "PT 어필",
+      "PT 추천",
+      "퍼스널 트레이닝",
+      "personal trainer",
+      "운동 코치"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.protein",
+    "title": "단백질",
+    "body": "단백질 AppStore 검색어",
+    "keywords": [
+      "단백질",
+      "단백질 앱",
+      "단백질 어필",
+      "단백질 추천",
+      "protein",
+      "보충제",
+      "영양"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.savings",
+    "title": "저축",
+    "body": "저축 AppStore 검색어",
+    "keywords": [
+      "저축",
+      "저축 앱",
+      "저축 어필",
+      "저축 추천",
+      "적금",
+      "savings",
+      "목돈"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.pension",
+    "title": "연금",
+    "body": "연금 AppStore 검색어",
+    "keywords": [
+      "연금",
+      "연금 앱",
+      "연금 어필",
+      "연금 추천",
+      "국민연금",
+      "pension",
+      "노후"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.etf",
+    "title": "ETF",
+    "body": "ETF AppStore 검색어",
+    "keywords": [
+      "ETF",
+      "ETF 앱",
+      "ETF 어필",
+      "ETF 추천",
+      "상장지수펀드",
+      "투자",
+      "인덱스 펀드"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.fund",
+    "title": "펀드",
+    "body": "펀드 AppStore 검색어",
+    "keywords": [
+      "펀드",
+      "펀드 앱",
+      "펀드 어필",
+      "펀드 추천",
+      "fund",
+      "자산 운용",
+      "투자"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.p2p",
+    "title": "P2P 투자",
+    "body": "P2P 투자 AppStore 검색어",
+    "keywords": [
+      "P2P 투자",
+      "P2P 투자 앱",
+      "P2P 투자 어필",
+      "P2P 투자 추천",
+      "P2P 금융",
+      "대출 투자",
+      "핀테크"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.credit-score",
+    "title": "신용점수",
+    "body": "신용점수 AppStore 검색어",
+    "keywords": [
+      "신용점수",
+      "신용점수 앱",
+      "신용점수 어필",
+      "신용점수 추천",
+      "신용 등급",
+      "credit score",
+      "금융"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.idle-game",
+    "title": "방치형 게임",
+    "body": "방치형 게임 AppStore 검색어",
+    "keywords": [
+      "방치형 게임",
+      "방치형 게임 앱",
+      "방치형 게임 어필",
+      "방치형 게임 추천",
+      "idle game",
+      "클리커",
+      "자동 진행"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.survival-game",
+    "title": "서바이벌 게임",
+    "body": "서바이벌 게임 AppStore 검색어",
+    "keywords": [
+      "서바이벌 게임",
+      "서바이벌 게임 앱",
+      "서바이벌 게임 어필",
+      "서바이벌 게임 추천",
+      "survival",
+      "배틀로얄",
+      "배그"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.tower-defense",
+    "title": "타워 디펜스",
+    "body": "타워 디펜스 AppStore 검색어",
+    "keywords": [
+      "타워 디펜스",
+      "타워 디펜스 앱",
+      "타워 디펜스 어필",
+      "타워 디펜스 추천",
+      "tower defense",
+      "전략",
+      "방어"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.city-builder",
+    "title": "도시 건설",
+    "body": "도시 건설 AppStore 검색어",
+    "keywords": [
+      "도시 건설",
+      "도시 건설 앱",
+      "도시 건설 어필",
+      "도시 건설 추천",
+      "city builder",
+      "건설 게임",
+      "시뮬레이션"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.farm-game",
+    "title": "농장 게임",
+    "body": "농장 게임 AppStore 검색어",
+    "keywords": [
+      "농장 게임",
+      "농장 게임 앱",
+      "농장 게임 어필",
+      "농장 게임 추천",
+      "farm game",
+      "농사 게임",
+      "힐링 게임"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.fishing-game",
+    "title": "낚시 게임",
+    "body": "낚시 게임 AppStore 검색어",
+    "keywords": [
+      "낚시 게임",
+      "낚시 게임 앱",
+      "낚시 게임 어필",
+      "낚시 게임 추천",
+      "fishing game",
+      "낚시",
+      "힐링"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.mini-game",
+    "title": "미니게임",
+    "body": "미니게임 AppStore 검색어",
+    "keywords": [
+      "미니게임",
+      "미니게임 앱",
+      "미니게임 어필",
+      "미니게임 추천",
+      "mini game",
+      "간단 게임",
+      "짧은 게임"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.escape-room",
+    "title": "방탈출",
+    "body": "방탈출 AppStore 검색어",
+    "keywords": [
+      "방탈출",
+      "방탈출 앱",
+      "방탈출 어필",
+      "방탈출 추천",
+      "escape room",
+      "탈출 게임",
+      "어드벤처"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.manhwa",
+    "title": "한국 만화",
+    "body": "한국 만화 AppStore 검색어",
+    "keywords": [
+      "한국 만화",
+      "한국 만화 앱",
+      "한국 만화 어필",
+      "한국 만화 추천",
+      "manhwa",
+      "웹툰",
+      "코믹"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.anime",
+    "title": "애니메이션",
+    "body": "애니메이션 AppStore 검색어",
+    "keywords": [
+      "애니메이션",
+      "애니메이션 앱",
+      "애니메이션 어필",
+      "애니메이션 추천",
+      "anime",
+      "일본 애니",
+      "만화 영화"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.podcast-news",
+    "title": "뉴스 팟캐스트",
+    "body": "뉴스 팟캐스트 AppStore 검색어",
+    "keywords": [
+      "뉴스 팟캐스트",
+      "뉴스 팟캐스트 앱",
+      "뉴스 팟캐스트 어필",
+      "뉴스 팟캐스트 추천",
+      "시사",
+      "라디오 뉴스",
+      "팟캐스트"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.economic-news",
+    "title": "경제 뉴스",
+    "body": "경제 뉴스 AppStore 검색어",
+    "keywords": [
+      "경제 뉴스",
+      "경제 뉴스 앱",
+      "경제 뉴스 어필",
+      "경제 뉴스 추천",
+      "금융 뉴스",
+      "주식 뉴스",
+      "시장"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.entertainment-news",
+    "title": "연예 뉴스",
+    "body": "연예 뉴스 AppStore 검색어",
+    "keywords": [
+      "연예 뉴스",
+      "연예 뉴스 앱",
+      "연예 뉴스 어필",
+      "연예 뉴스 추천",
+      "연예인",
+      "셀럽",
+      "가십"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.pinterest",
+    "title": "핀터레스트",
+    "body": "핀터레스트 AppStore 검색어",
+    "keywords": [
+      "핀터레스트",
+      "핀터레스트 앱",
+      "핀터레스트 어필",
+      "핀터레스트 추천",
+      "pinterest",
+      "이미지",
+      "아이디어"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.snapchat",
+    "title": "스냅챗",
+    "body": "스냅챗 AppStore 검색어",
+    "keywords": [
+      "스냅챗",
+      "스냅챗 앱",
+      "스냅챗 어필",
+      "스냅챗 추천",
+      "snapchat",
+      "사진 메신저",
+      "AR 필터"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.community",
+    "title": "커뮤니티",
+    "body": "커뮤니티 AppStore 검색어",
+    "keywords": [
+      "커뮤니티",
+      "커뮤니티 앱",
+      "커뮤니티 어필",
+      "커뮤니티 추천",
+      "게시판",
+      "온라인 카페",
+      "포럼"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.live-streaming",
+    "title": "라이브 스트리밍",
+    "body": "라이브 스트리밍 AppStore 검색어",
+    "keywords": [
+      "라이브 스트리밍",
+      "라이브 스트리밍 앱",
+      "라이브 스트리밍 어필",
+      "라이브 스트리밍 추천",
+      "live",
+      "방송",
+      "스트리밍"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.fan-community",
+    "title": "팬덤",
+    "body": "팬덤 AppStore 검색어",
+    "keywords": [
+      "팬덤",
+      "팬덤 앱",
+      "팬덤 어필",
+      "팬덤 추천",
+      "fandom",
+      "팬 커뮤니티",
+      "아이돌"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.dating",
+    "title": "소개팅",
+    "body": "소개팅 AppStore 검색어",
+    "keywords": [
+      "소개팅",
+      "소개팅 앱",
+      "소개팅 어필",
+      "소개팅 추천",
+      "데이팅",
+      "만남",
+      "dating"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.olive-young",
+    "title": "올리브영",
+    "body": "올리브영 AppStore 검색어",
+    "keywords": [
+      "올리브영",
+      "올리브영 앱",
+      "올리브영 어필",
+      "올리브영 추천",
+      "화장품",
+      "뷰티",
+      "올리브영 할인"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.beauty",
+    "title": "뷰티",
+    "body": "뷰티 AppStore 검색어",
+    "keywords": [
+      "뷰티",
+      "뷰티 앱",
+      "뷰티 어필",
+      "뷰티 추천",
+      "화장품",
+      "스킨케어",
+      "beauty"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.fashion",
+    "title": "패션",
+    "body": "패션 AppStore 검색어",
+    "keywords": [
+      "패션",
+      "패션 앱",
+      "패션 어필",
+      "패션 추천",
+      "의류",
+      "스타일",
+      "fashion"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.thrift",
+    "title": "구제 쇼핑",
+    "body": "구제 쇼핑 AppStore 검색어",
+    "keywords": [
+      "구제 쇼핑",
+      "구제 쇼핑 앱",
+      "구제 쇼핑 어필",
+      "구제 쇼핑 추천",
+      "빈티지",
+      "중고 의류",
+      "thrift"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.grocery",
+    "title": "장보기",
+    "body": "장보기 AppStore 검색어",
+    "keywords": [
+      "장보기",
+      "장보기 앱",
+      "장보기 어필",
+      "장보기 추천",
+      "마트",
+      "식료품",
+      "grocery"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.group-buy",
+    "title": "공동구매",
+    "body": "공동구매 AppStore 검색어",
+    "keywords": [
+      "공동구매",
+      "공동구매 앱",
+      "공동구매 어필",
+      "공동구매 추천",
+      "소셜 커머스",
+      "공구",
+      "할인"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.coupon",
+    "title": "쿠폰",
+    "body": "쿠폰 AppStore 검색어",
+    "keywords": [
+      "쿠폰",
+      "쿠폰 앱",
+      "쿠폰 어필",
+      "쿠폰 추천",
+      "할인쿠폰",
+      "coupon",
+      "프로모션"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.cashback",
+    "title": "캐시백",
+    "body": "캐시백 AppStore 검색어",
+    "keywords": [
+      "캐시백",
+      "캐시백 앱",
+      "캐시백 어필",
+      "캐시백 추천",
+      "cashback",
+      "리워드",
+      "적립"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.subscription",
+    "title": "구독",
+    "body": "구독 AppStore 검색어",
+    "keywords": [
+      "구독",
+      "구독 앱",
+      "구독 어필",
+      "구독 추천",
+      "subscription",
+      "구독 관리",
+      "월정액"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.ibank",
+    "title": "인터넷 뱅킹",
+    "body": "인터넷 뱅킹 AppStore 검색어",
+    "keywords": [
+      "인터넷 뱅킹",
+      "인터넷 뱅킹 앱",
+      "인터넷 뱅킹 어필",
+      "인터넷 뱅킹 추천",
+      "모바일 뱅킹",
+      "banking",
+      "온라인 은행"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.ibk",
+    "title": "IBK기업은행",
+    "body": "IBK기업은행 AppStore 검색어",
+    "keywords": [
+      "IBK기업은행",
+      "IBK기업은행 앱",
+      "IBK기업은행 어필",
+      "IBK기업은행 추천",
+      "IBK",
+      "기업은행",
+      "뱅킹"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.nonghyup",
+    "title": "농협은행",
+    "body": "농협은행 AppStore 검색어",
+    "keywords": [
+      "농협은행",
+      "농협은행 앱",
+      "농협은행 어필",
+      "농협은행 추천",
+      "NH",
+      "농협",
+      "뱅킹"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.sc-bank",
+    "title": "SC제일은행",
+    "body": "SC제일은행 AppStore 검색어",
+    "keywords": [
+      "SC제일은행",
+      "SC제일은행 앱",
+      "SC제일은행 어필",
+      "SC제일은행 추천",
+      "SC",
+      "Standard Chartered",
+      "뱅킹"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.samsung-pay",
+    "title": "삼성페이",
+    "body": "삼성페이 AppStore 검색어",
+    "keywords": [
+      "삼성페이",
+      "삼성페이 앱",
+      "삼성페이 어필",
+      "삼성페이 추천",
+      "Samsung Pay",
+      "모바일 결제",
+      "간편 결제"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.apple-pay",
+    "title": "애플페이",
+    "body": "애플페이 AppStore 검색어",
+    "keywords": [
+      "애플페이",
+      "애플페이 앱",
+      "애플페이 어필",
+      "애플페이 추천",
+      "Apple Pay",
+      "NFC 결제",
+      "간편 결제"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.cruise",
+    "title": "크루즈",
+    "body": "크루즈 AppStore 검색어",
+    "keywords": [
+      "크루즈",
+      "크루즈 앱",
+      "크루즈 어필",
+      "크루즈 추천",
+      "cruise",
+      "배 여행",
+      "선박"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.travel-insurance",
+    "title": "여행자 보험",
+    "body": "여행자 보험 AppStore 검색어",
+    "keywords": [
+      "여행자 보험",
+      "여행자 보험 앱",
+      "여행자 보험 어필",
+      "여행자 보험 추천",
+      "해외 보험",
+      "여행 보험",
+      "travel insurance"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.airbnb",
+    "title": "에어비앤비",
+    "body": "에어비앤비 AppStore 검색어",
+    "keywords": [
+      "에어비앤비",
+      "에어비앤비 앱",
+      "에어비앤비 어필",
+      "에어비앤비 추천",
+      "airbnb",
+      "민박",
+      "숙박 공유"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.interrail",
+    "title": "유레일",
+    "body": "유레일 AppStore 검색어",
+    "keywords": [
+      "유레일",
+      "유레일 앱",
+      "유레일 어필",
+      "유레일 추천",
+      "eurail",
+      "유럽 기차",
+      "rail pass"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.backpacking",
+    "title": "배낭여행",
+    "body": "배낭여행 AppStore 검색어",
+    "keywords": [
+      "배낭여행",
+      "배낭여행 앱",
+      "배낭여행 어필",
+      "배낭여행 추천",
+      "backpacking",
+      "여행 정보",
+      "배낭"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.travel-photo",
+    "title": "여행 사진",
+    "body": "여행 사진 AppStore 검색어",
+    "keywords": [
+      "여행 사진",
+      "여행 사진 앱",
+      "여행 사진 어필",
+      "여행 사진 추천",
+      "여행 기록",
+      "travel photo",
+      "포토 다이어리"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.text-editor",
+    "title": "텍스트 편집기",
+    "body": "텍스트 편집기 AppStore 검색어",
+    "keywords": [
+      "텍스트 편집기",
+      "텍스트 편집기 앱",
+      "텍스트 편집기 어필",
+      "텍스트 편집기 추천",
+      "text editor",
+      "코드 편집",
+      "마크다운"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.markdown",
+    "title": "마크다운",
+    "body": "마크다운 AppStore 검색어",
+    "keywords": [
+      "마크다운",
+      "마크다운 앱",
+      "마크다운 어필",
+      "마크다운 추천",
+      "markdown",
+      "텍스트 형식",
+      "노트"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.ip-scanner",
+    "title": "IP 스캐너",
+    "body": "IP 스캐너 AppStore 검색어",
+    "keywords": [
+      "IP 스캐너",
+      "IP 스캐너 앱",
+      "IP 스캐너 어필",
+      "IP 스캐너 추천",
+      "네트워크 스캔",
+      "IP 주소",
+      "포트 스캔"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.two-factor",
+    "title": "2단계 인증",
+    "body": "2단계 인증 AppStore 검색어",
+    "keywords": [
+      "2단계 인증",
+      "2단계 인증 앱",
+      "2단계 인증 어필",
+      "2단계 인증 추천",
+      "OTP",
+      "인증기",
+      "2FA"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.ssh",
+    "title": "SSH",
+    "body": "SSH AppStore 검색어",
+    "keywords": [
+      "SSH",
+      "SSH 앱",
+      "SSH 어필",
+      "SSH 추천",
+      "터미널",
+      "서버 접속",
+      "shell"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.wallpaper",
+    "title": "배경화면",
+    "body": "배경화면 AppStore 검색어",
+    "keywords": [
+      "배경화면",
+      "배경화면 앱",
+      "배경화면 어필",
+      "배경화면 추천",
+      "wallpaper",
+      "홈 화면",
+      "잠금 화면"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.live-wallpaper",
+    "title": "라이브 배경화면",
+    "body": "라이브 배경화면 AppStore 검색어",
+    "keywords": [
+      "라이브 배경화면",
+      "라이브 배경화면 앱",
+      "라이브 배경화면 어필",
+      "라이브 배경화면 추천",
+      "live wallpaper",
+      "움직이는 배경",
+      "동적 배경"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.icon-pack",
+    "title": "아이콘 팩",
+    "body": "아이콘 팩 AppStore 검색어",
+    "keywords": [
+      "아이콘 팩",
+      "아이콘 팩 앱",
+      "아이콘 팩 어필",
+      "아이콘 팩 추천",
+      "icon pack",
+      "앱 아이콘",
+      "홈 꾸미기"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.nfc",
+    "title": "NFC",
+    "body": "NFC AppStore 검색어",
+    "keywords": [
+      "NFC",
+      "NFC 앱",
+      "NFC 어필",
+      "NFC 추천",
+      "근거리 통신",
+      "태그",
+      "결제"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.apple-watch",
+    "title": "애플워치",
+    "body": "애플워치 AppStore 검색어",
+    "keywords": [
+      "애플워치",
+      "애플워치 앱",
+      "애플워치 어필",
+      "애플워치 추천",
+      "Apple Watch",
+      "스마트워치",
+      "워치앱"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.pet",
+    "title": "반려동물",
+    "body": "반려동물 AppStore 검색어",
+    "keywords": [
+      "반려동물",
+      "반려동물 앱",
+      "반려동물 어필",
+      "반려동물 추천",
+      "강아지",
+      "고양이",
+      "pet"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.dog-training",
+    "title": "강아지 훈련",
+    "body": "강아지 훈련 AppStore 검색어",
+    "keywords": [
+      "강아지 훈련",
+      "강아지 훈련 앱",
+      "강아지 훈련 어필",
+      "강아지 훈련 추천",
+      "dog training",
+      "반려견",
+      "교육"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.pet-health",
+    "title": "반려동물 건강",
+    "body": "반려동물 건강 AppStore 검색어",
+    "keywords": [
+      "반려동물 건강",
+      "반려동물 건강 앱",
+      "반려동물 건강 어필",
+      "반려동물 건강 추천",
+      "동물병원",
+      "수의사",
+      "pet health"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.gardening",
+    "title": "식물 키우기",
+    "body": "식물 키우기 AppStore 검색어",
+    "keywords": [
+      "식물 키우기",
+      "식물 키우기 앱",
+      "식물 키우기 어필",
+      "식물 키우기 추천",
+      "정원",
+      "화초",
+      "gardening"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.plant-identify",
+    "title": "식물 인식",
+    "body": "식물 인식 AppStore 검색어",
+    "keywords": [
+      "식물 인식",
+      "식물 인식 앱",
+      "식물 인식 어필",
+      "식물 인식 추천",
+      "plant identification",
+      "꽃 인식",
+      "AI 식물"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.cooking",
+    "title": "요리",
+    "body": "요리 AppStore 검색어",
+    "keywords": [
+      "요리",
+      "요리 앱",
+      "요리 어필",
+      "요리 추천",
+      "레시피",
+      "cooking",
+      "요리 레시피"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.recipe",
+    "title": "레시피",
+    "body": "레시피 AppStore 검색어",
+    "keywords": [
+      "레시피",
+      "레시피 앱",
+      "레시피 어필",
+      "레시피 추천",
+      "음식 만들기",
+      "recipe",
+      "요리법"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.meal-plan",
+    "title": "식단 계획",
+    "body": "식단 계획 AppStore 검색어",
+    "keywords": [
+      "식단 계획",
+      "식단 계획 앱",
+      "식단 계획 어필",
+      "식단 계획 추천",
+      "meal plan",
+      "주간 식단",
+      "영양"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.wine",
+    "title": "와인",
+    "body": "와인 AppStore 검색어",
+    "keywords": [
+      "와인",
+      "와인 앱",
+      "와인 어필",
+      "와인 추천",
+      "wine",
+      "와인 추천",
+      "소믈리에"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.coffee",
+    "title": "커피",
+    "body": "커피 AppStore 검색어",
+    "keywords": [
+      "커피",
+      "커피 앱",
+      "커피 어필",
+      "커피 추천",
+      "카페",
+      "coffee",
+      "에스프레소"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.home-interior",
+    "title": "인테리어",
+    "body": "인테리어 AppStore 검색어",
+    "keywords": [
+      "인테리어",
+      "인테리어 앱",
+      "인테리어 어필",
+      "인테리어 추천",
+      "홈 데코",
+      "interior",
+      "집 꾸미기"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.ar-interior",
+    "title": "AR 인테리어",
+    "body": "AR 인테리어 AppStore 검색어",
+    "keywords": [
+      "AR 인테리어",
+      "AR 인테리어 앱",
+      "AR 인테리어 어필",
+      "AR 인테리어 추천",
+      "AR",
+      "가구 배치",
+      "증강현실"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.real-estate-app",
+    "title": "아파트 시세",
+    "body": "아파트 시세 AppStore 검색어",
+    "keywords": [
+      "아파트 시세",
+      "아파트 시세 앱",
+      "아파트 시세 어필",
+      "아파트 시세 추천",
+      "부동산",
+      "매매",
+      "전세"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.electric-bill",
+    "title": "전기요금",
+    "body": "전기요금 AppStore 검색어",
+    "keywords": [
+      "전기요금",
+      "전기요금 앱",
+      "전기요금 어필",
+      "전기요금 추천",
+      "공과금",
+      "전기 납부",
+      "utility bill"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.smart-home",
+    "title": "스마트홈",
+    "body": "스마트홈 AppStore 검색어",
+    "keywords": [
+      "스마트홈",
+      "스마트홈 앱",
+      "스마트홈 어필",
+      "스마트홈 추천",
+      "IoT",
+      "홈 자동화",
+      "smart home"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.cleaning",
+    "title": "청소",
+    "body": "청소 AppStore 검색어",
+    "keywords": [
+      "청소",
+      "청소 앱",
+      "청소 어필",
+      "청소 추천",
+      "청소 일정",
+      "housekeeping"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.netflix",
+    "title": "넷플릭스",
+    "body": "넷플릭스 AppStore 검색어",
+    "keywords": [
+      "넷플릭스",
+      "넷플릭스 앱",
+      "넷플릭스 어필",
+      "넷플릭스 추천",
+      "netflix",
+      "드라마",
+      "OTT"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.wavve",
+    "title": "웨이브",
+    "body": "웨이브 AppStore 검색어",
+    "keywords": [
+      "웨이브",
+      "웨이브 앱",
+      "웨이브 어필",
+      "웨이브 추천",
+      "wavve",
+      "OTT",
+      "한국 드라마"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.tving",
+    "title": "티빙",
+    "body": "티빙 AppStore 검색어",
+    "keywords": [
+      "티빙",
+      "티빙 앱",
+      "티빙 어필",
+      "티빙 추천",
+      "tving",
+      "드라마",
+      "예능"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.watcha",
+    "title": "왓챠",
+    "body": "왓챠 AppStore 검색어",
+    "keywords": [
+      "왓챠",
+      "왓챠 앱",
+      "왓챠 어필",
+      "왓챠 추천",
+      "watcha",
+      "영화",
+      "OTT"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.disney-plus",
+    "title": "디즈니플러스",
+    "body": "디즈니플러스 AppStore 검색어",
+    "keywords": [
+      "디즈니플러스",
+      "디즈니플러스 앱",
+      "디즈니플러스 어필",
+      "디즈니플러스 추천",
+      "Disney+",
+      "마블",
+      "스타워즈"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.apple-tv",
+    "title": "애플TV",
+    "body": "애플TV AppStore 검색어",
+    "keywords": [
+      "애플TV",
+      "애플TV 앱",
+      "애플TV 어필",
+      "애플TV 추천",
+      "Apple TV+",
+      "OTT",
+      "원작 드라마"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.coupang-play",
+    "title": "쿠팡플레이",
+    "body": "쿠팡플레이 AppStore 검색어",
+    "keywords": [
+      "쿠팡플레이",
+      "쿠팡플레이 앱",
+      "쿠팡플레이 어필",
+      "쿠팡플레이 추천",
+      "Coupang Play",
+      "OTT",
+      "스포츠 중계"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.medical",
+    "title": "의료",
+    "body": "의료 AppStore 검색어",
+    "keywords": [
+      "의료",
+      "의료 앱",
+      "의료 어필",
+      "의료 추천",
+      "병원",
+      "의사",
+      "진료"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.hospital",
+    "title": "병원 예약",
+    "body": "병원 예약 AppStore 검색어",
+    "keywords": [
+      "병원 예약",
+      "병원 예약 앱",
+      "병원 예약 어필",
+      "병원 예약 추천",
+      "진료 예약",
+      "외래",
+      "hospital"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.pharmacy",
+    "title": "약국",
+    "body": "약국 AppStore 검색어",
+    "keywords": [
+      "약국",
+      "약국 앱",
+      "약국 어필",
+      "약국 추천",
+      "처방전",
+      "의약품",
+      "pharmacy"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.medicine-reminder",
+    "title": "약 복용 알림",
+    "body": "약 복용 알림 AppStore 검색어",
+    "keywords": [
+      "약 복용 알림",
+      "약 복용 알림 앱",
+      "약 복용 알림 어필",
+      "약 복용 알림 추천",
+      "투약",
+      "알림",
+      "medicine"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.blood-pressure",
+    "title": "혈압",
+    "body": "혈압 AppStore 검색어",
+    "keywords": [
+      "혈압",
+      "혈압 앱",
+      "혈압 어필",
+      "혈압 추천",
+      "blood pressure",
+      "혈압 기록",
+      "고혈압"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.blood-sugar",
+    "title": "혈당",
+    "body": "혈당 AppStore 검색어",
+    "keywords": [
+      "혈당",
+      "혈당 앱",
+      "혈당 어필",
+      "혈당 추천",
+      "blood sugar",
+      "당뇨",
+      "혈당 관리"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.symptom-checker",
+    "title": "증상 확인",
+    "body": "증상 확인 AppStore 검색어",
+    "keywords": [
+      "증상 확인",
+      "증상 확인 앱",
+      "증상 확인 어필",
+      "증상 확인 추천",
+      "symptom",
+      "자가 진단",
+      "건강 정보"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.telemedicine",
+    "title": "비대면 진료",
+    "body": "비대면 진료 AppStore 검색어",
+    "keywords": [
+      "비대면 진료",
+      "비대면 진료 앱",
+      "비대면 진료 어필",
+      "비대면 진료 추천",
+      "원격 진료",
+      "telemedicine",
+      "화상 진료"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.law",
+    "title": "법률",
+    "body": "법률 AppStore 검색어",
+    "keywords": [
+      "법률",
+      "법률 앱",
+      "법률 어필",
+      "법률 추천",
+      "법",
+      "법률 정보",
+      "law"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.legal-contract",
+    "title": "법률 계약",
+    "body": "법률 계약 AppStore 검색어",
+    "keywords": [
+      "법률 계약",
+      "법률 계약 앱",
+      "법률 계약 어필",
+      "법률 계약 추천",
+      "계약서",
+      "법률 문서",
+      "legal"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.government",
+    "title": "정부 서비스",
+    "body": "정부 서비스 AppStore 검색어",
+    "keywords": [
+      "정부 서비스",
+      "정부 서비스 앱",
+      "정부 서비스 어필",
+      "정부 서비스 추천",
+      "민원",
+      "공공서비스",
+      "정부24"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.welfare",
+    "title": "복지",
+    "body": "복지 AppStore 검색어",
+    "keywords": [
+      "복지",
+      "복지 앱",
+      "복지 어필",
+      "복지 추천",
+      "사회복지",
+      "지원",
+      "welfare"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.environment",
+    "title": "환경",
+    "body": "환경 AppStore 검색어",
+    "keywords": [
+      "환경",
+      "환경 앱",
+      "환경 어필",
+      "환경 추천",
+      "탄소",
+      "친환경",
+      "environment"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.recycling",
+    "title": "재활용",
+    "body": "재활용 AppStore 검색어",
+    "keywords": [
+      "재활용",
+      "재활용 앱",
+      "재활용 어필",
+      "재활용 추천",
+      "분리수거",
+      "recycling",
+      "환경"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.carbon-footprint",
+    "title": "탄소발자국",
+    "body": "탄소발자국 AppStore 검색어",
+    "keywords": [
+      "탄소발자국",
+      "탄소발자국 앱",
+      "탄소발자국 어필",
+      "탄소발자국 추천",
+      "carbon footprint",
+      "온실가스",
+      "환경"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.solar-energy",
+    "title": "태양광",
+    "body": "태양광 AppStore 검색어",
+    "keywords": [
+      "태양광",
+      "태양광 앱",
+      "태양광 어필",
+      "태양광 추천",
+      "태양열",
+      "신재생에너지",
+      "solar"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.photography",
+    "title": "사진 촬영",
+    "body": "사진 촬영 AppStore 검색어",
+    "keywords": [
+      "사진 촬영",
+      "사진 촬영 앱",
+      "사진 촬영 어필",
+      "사진 촬영 추천",
+      "DSLR",
+      "미러리스",
+      "촬영 팁"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.video-diary",
+    "title": "영상 일기",
+    "body": "영상 일기 AppStore 검색어",
+    "keywords": [
+      "영상 일기",
+      "영상 일기 앱",
+      "영상 일기 어필",
+      "영상 일기 추천",
+      "브이로그",
+      "vlog",
+      "일상 기록"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.vlog",
+    "title": "브이로그",
+    "body": "브이로그 AppStore 검색어",
+    "keywords": [
+      "브이로그",
+      "브이로그 앱",
+      "브이로그 어필",
+      "브이로그 추천",
+      "vlog",
+      "일상 영상",
+      "유튜브"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.astronomy",
+    "title": "천문학",
+    "body": "천문학 AppStore 검색어",
+    "keywords": [
+      "천문학",
+      "천문학 앱",
+      "천문학 어필",
+      "천문학 추천",
+      "별",
+      "별자리",
+      "astronomy"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.star-gazing",
+    "title": "별보기",
+    "body": "별보기 AppStore 검색어",
+    "keywords": [
+      "별보기",
+      "별보기 앱",
+      "별보기 어필",
+      "별보기 추천",
+      "별자리",
+      "은하수",
+      "star gazing"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.history",
+    "title": "역사",
+    "body": "역사 AppStore 검색어",
+    "keywords": [
+      "역사",
+      "역사 앱",
+      "역사 어필",
+      "역사 추천",
+      "한국사",
+      "world history",
+      "역사 학습"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.geography",
+    "title": "지리",
+    "body": "지리 AppStore 검색어",
+    "keywords": [
+      "지리",
+      "지리 앱",
+      "지리 어필",
+      "지리 추천",
+      "지도 학습",
+      "세계 지도",
+      "geography"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.art",
+    "title": "미술",
+    "body": "미술 AppStore 검색어",
+    "keywords": [
+      "미술",
+      "미술 앱",
+      "미술 어필",
+      "미술 추천",
+      "art",
+      "그림",
+      "미술 교육",
+      "드로잉",
+      "스케치",
+      "색칠"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.museum",
+    "title": "박물관",
+    "body": "박물관 AppStore 검색어",
+    "keywords": [
+      "박물관",
+      "박물관 앱",
+      "박물관 어필",
+      "박물관 추천",
+      "museum",
+      "전시",
+      "문화"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.philosophy",
+    "title": "철학",
+    "body": "철학 AppStore 검색어",
+    "keywords": [
+      "철학",
+      "철학 앱",
+      "철학 어필",
+      "철학 추천",
+      "philosophy",
+      "인문학",
+      "사상"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.job-search",
+    "title": "취업",
+    "body": "취업 AppStore 검색어",
+    "keywords": [
+      "취업",
+      "취업 앱",
+      "취업 어필",
+      "취업 추천",
+      "구직",
+      "job search",
+      "채용",
+      "면접",
+      "취업 준비",
+      "면접 준비"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.resume",
+    "title": "이력서",
+    "body": "이력서 AppStore 검색어",
+    "keywords": [
+      "이력서",
+      "이력서 앱",
+      "이력서 어필",
+      "이력서 추천",
+      "resume",
+      "CV",
+      "자기소개서",
+      "면접"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.freelance",
+    "title": "프리랜서",
+    "body": "프리랜서 AppStore 검색어",
+    "keywords": [
+      "프리랜서",
+      "프리랜서 앱",
+      "프리랜서 어필",
+      "프리랜서 추천",
+      "freelance",
+      "부업",
+      "재택"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.side-job",
+    "title": "부업",
+    "body": "부업 AppStore 검색어",
+    "keywords": [
+      "부업",
+      "부업 앱",
+      "부업 어필",
+      "부업 추천",
+      "투잡",
+      "side job",
+      "재택 알바"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.spotify",
+    "title": "스포티파이",
+    "body": "스포티파이 AppStore 검색어",
+    "keywords": [
+      "스포티파이",
+      "스포티파이 앱",
+      "스포티파이 어필",
+      "스포티파이 추천",
+      "spotify",
+      "음악 스트리밍",
+      "플레이리스트"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.melon",
+    "title": "멜론",
+    "body": "멜론 AppStore 검색어",
+    "keywords": [
+      "멜론",
+      "멜론 앱",
+      "멜론 어필",
+      "멜론 추천",
+      "melon",
+      "한국 음악",
+      "차트"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.flo",
+    "title": "플로",
+    "body": "플로 AppStore 검색어",
+    "keywords": [
+      "플로",
+      "플로 앱",
+      "플로 어필",
+      "플로 추천",
+      "FLO",
+      "음악 스트리밍",
+      "SK"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.bugs-music",
+    "title": "벅스",
+    "body": "벅스 AppStore 검색어",
+    "keywords": [
+      "벅스",
+      "벅스 앱",
+      "벅스 어필",
+      "벅스 추천",
+      "bugs",
+      "음악 감상",
+      "스트리밍"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.genie",
+    "title": "지니",
+    "body": "지니 AppStore 검색어",
+    "keywords": [
+      "지니",
+      "지니 앱",
+      "지니 어필",
+      "지니 추천",
+      "genie",
+      "KT 음악",
+      "스트리밍"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.notion",
+    "title": "노션",
+    "body": "노션 AppStore 검색어",
+    "keywords": [
+      "노션",
+      "노션 앱",
+      "노션 어필",
+      "노션 추천",
+      "notion",
+      "협업",
+      "문서"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.obsidian",
+    "title": "옵시디언",
+    "body": "옵시디언 AppStore 검색어",
+    "keywords": [
+      "옵시디언",
+      "옵시디언 앱",
+      "옵시디언 어필",
+      "옵시디언 추천",
+      "obsidian",
+      "지식 관리",
+      "PKM"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.evernote",
+    "title": "에버노트",
+    "body": "에버노트 AppStore 검색어",
+    "keywords": [
+      "에버노트",
+      "에버노트 앱",
+      "에버노트 어필",
+      "에버노트 추천",
+      "evernote",
+      "노트",
+      "스크랩"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.bear-note",
+    "title": "베어 노트",
+    "body": "베어 노트 AppStore 검색어",
+    "keywords": [
+      "베어 노트",
+      "베어 노트 앱",
+      "베어 노트 어필",
+      "베어 노트 추천",
+      "bear",
+      "마크다운 노트",
+      "글쓰기"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.line",
+    "title": "라인",
+    "body": "라인 AppStore 검색어",
+    "keywords": [
+      "라인",
+      "라인 앱",
+      "라인 어필",
+      "라인 추천",
+      "LINE",
+      "일본 메신저",
+      "채팅"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.viber",
+    "title": "바이버",
+    "body": "바이버 AppStore 검색어",
+    "keywords": [
+      "바이버",
+      "바이버 앱",
+      "바이버 어필",
+      "바이버 추천",
+      "viber",
+      "국제 통화",
+      "메신저"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.whatsapp",
+    "title": "왓츠앱",
+    "body": "왓츠앱 AppStore 검색어",
+    "keywords": [
+      "왓츠앱",
+      "왓츠앱 앱",
+      "왓츠앱 어필",
+      "왓츠앱 추천",
+      "whatsapp",
+      "해외 메신저",
+      "채팅"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.google-meet",
+    "title": "구글 미트",
+    "body": "구글 미트 AppStore 검색어",
+    "keywords": [
+      "구글 미트",
+      "구글 미트 앱",
+      "구글 미트 어필",
+      "구글 미트 추천",
+      "Google Meet",
+      "화상회의",
+      "원격 회의"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.apple-music",
+    "title": "애플 뮤직",
+    "body": "애플 뮤직 AppStore 검색어",
+    "keywords": [
+      "애플 뮤직",
+      "애플 뮤직 앱",
+      "애플 뮤직 어필",
+      "애플 뮤직 추천",
+      "Apple Music",
+      "음악 스트리밍",
+      "아이폰"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.google-drive",
+    "title": "구글 드라이브",
+    "body": "구글 드라이브 AppStore 검색어",
+    "keywords": [
+      "구글 드라이브",
+      "구글 드라이브 앱",
+      "구글 드라이브 어필",
+      "구글 드라이브 추천",
+      "Google Drive",
+      "클라우드",
+      "파일 저장"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.dropbox",
+    "title": "드롭박스",
+    "body": "드롭박스 AppStore 검색어",
+    "keywords": [
+      "드롭박스",
+      "드롭박스 앱",
+      "드롭박스 어필",
+      "드롭박스 추천",
+      "Dropbox",
+      "클라우드",
+      "파일 공유"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.onedrive",
+    "title": "원드라이브",
+    "body": "원드라이브 AppStore 검색어",
+    "keywords": [
+      "원드라이브",
+      "원드라이브 앱",
+      "원드라이브 어필",
+      "원드라이브 추천",
+      "OneDrive",
+      "Microsoft",
+      "클라우드"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.icloud",
+    "title": "아이클라우드",
+    "body": "아이클라우드 AppStore 검색어",
+    "keywords": [
+      "아이클라우드",
+      "아이클라우드 앱",
+      "아이클라우드 어필",
+      "아이클라우드 추천",
+      "iCloud",
+      "애플",
+      "백업"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.star-chart",
+    "title": "별자리 운세",
+    "body": "별자리 운세 AppStore 검색어",
+    "keywords": [
+      "별자리 운세",
+      "별자리 운세 앱",
+      "별자리 운세 어필",
+      "별자리 운세 추천",
+      "호로스코프",
+      "점성술",
+      "운세"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.fortune",
+    "title": "운세",
+    "body": "운세 AppStore 검색어",
+    "keywords": [
+      "운세",
+      "운세 앱",
+      "운세 어필",
+      "운세 추천",
+      "사주",
+      "타로",
+      "fortune"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.tarot",
+    "title": "타로",
+    "body": "타로 AppStore 검색어",
+    "keywords": [
+      "타로",
+      "타로 앱",
+      "타로 어필",
+      "타로 추천",
+      "tarot",
+      "점",
+      "카드"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.dream",
+    "title": "꿈해몽",
+    "body": "꿈해몽 AppStore 검색어",
+    "keywords": [
+      "꿈해몽",
+      "꿈해몽 앱",
+      "꿈해몽 어필",
+      "꿈해몽 추천",
+      "꿈",
+      "dream interpretation",
+      "해몽"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.mbti",
+    "title": "MBTI",
+    "body": "MBTI AppStore 검색어",
+    "keywords": [
+      "MBTI",
+      "MBTI 앱",
+      "MBTI 어필",
+      "MBTI 추천",
+      "성격 유형",
+      "심리 테스트",
+      "퍼스널리티"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.psych-test",
+    "title": "심리 테스트",
+    "body": "심리 테스트 AppStore 검색어",
+    "keywords": [
+      "심리 테스트",
+      "심리 테스트 앱",
+      "심리 테스트 어필",
+      "심리 테스트 추천",
+      "성격 검사",
+      "psychology",
+      "자기 이해"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.manga",
+    "title": "망가",
+    "body": "망가 AppStore 검색어",
+    "keywords": [
+      "망가",
+      "망가 앱",
+      "망가 어필",
+      "망가 추천",
+      "manga",
+      "일본 만화",
+      "만화책"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.book-summary",
+    "title": "책 요약",
+    "body": "책 요약 AppStore 검색어",
+    "keywords": [
+      "책 요약",
+      "책 요약 앱",
+      "책 요약 어필",
+      "책 요약 추천",
+      "블링키스트",
+      "책 정리",
+      "독서"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.flashcard",
+    "title": "플래시카드",
+    "body": "플래시카드 AppStore 검색어",
+    "keywords": [
+      "플래시카드",
+      "플래시카드 앱",
+      "플래시카드 어필",
+      "플래시카드 추천",
+      "flashcard",
+      "암기",
+      "학습"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.speed-reading",
+    "title": "속독",
+    "body": "속독 AppStore 검색어",
+    "keywords": [
+      "속독",
+      "속독 앱",
+      "속독 어필",
+      "속독 추천",
+      "speed reading",
+      "빠르게 읽기",
+      "독서 훈련"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.book-tracker",
+    "title": "독서 기록",
+    "body": "독서 기록 AppStore 검색어",
+    "keywords": [
+      "독서 기록",
+      "독서 기록 앱",
+      "독서 기록 어필",
+      "독서 기록 추천",
+      "book tracker",
+      "독서 목록",
+      "책 리뷰"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.chatgpt",
+    "title": "ChatGPT",
+    "body": "ChatGPT AppStore 검색어",
+    "keywords": [
+      "ChatGPT",
+      "ChatGPT 앱",
+      "ChatGPT 어필",
+      "ChatGPT 추천",
+      "AI 챗봇",
+      "GPT",
+      "인공지능"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.ai-assistant",
+    "title": "AI 어시스턴트",
+    "body": "AI 어시스턴트 AppStore 검색어",
+    "keywords": [
+      "AI 어시스턴트",
+      "AI 어시스턴트 앱",
+      "AI 어시스턴트 어필",
+      "AI 어시스턴트 추천",
+      "AI",
+      "챗봇",
+      "인공지능"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.ai-writing",
+    "title": "AI 글쓰기",
+    "body": "AI 글쓰기 AppStore 검색어",
+    "keywords": [
+      "AI 글쓰기",
+      "AI 글쓰기 앱",
+      "AI 글쓰기 어필",
+      "AI 글쓰기 추천",
+      "AI 작문",
+      "자동 글쓰기",
+      "writing AI"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.ai-image",
+    "title": "AI 이미지 생성",
+    "body": "AI 이미지 생성 AppStore 검색어",
+    "keywords": [
+      "AI 이미지 생성",
+      "AI 이미지 생성 앱",
+      "AI 이미지 생성 어필",
+      "AI 이미지 생성 추천",
+      "midjourney",
+      "DALL-E",
+      "image AI"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.ai-voice",
+    "title": "AI 음성",
+    "body": "AI 음성 AppStore 검색어",
+    "keywords": [
+      "AI 음성",
+      "AI 음성 앱",
+      "AI 음성 어필",
+      "AI 음성 추천",
+      "TTS",
+      "음성 합성",
+      "text to speech"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.photo-backup",
+    "title": "사진 백업",
+    "body": "사진 백업 AppStore 검색어",
+    "keywords": [
+      "사진 백업",
+      "사진 백업 앱",
+      "사진 백업 어필",
+      "사진 백업 추천",
+      "Google Photos",
+      "클라우드 사진",
+      "자동 백업"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.phone-transfer",
+    "title": "폰 이전",
+    "body": "폰 이전 AppStore 검색어",
+    "keywords": [
+      "폰 이전",
+      "폰 이전 앱",
+      "폰 이전 어필",
+      "폰 이전 추천",
+      "기기 변경",
+      "데이터 이전",
+      "phone transfer"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.contact-manager",
+    "title": "연락처 관리",
+    "body": "연락처 관리 AppStore 검색어",
+    "keywords": [
+      "연락처 관리",
+      "연락처 관리 앱",
+      "연락처 관리 어필",
+      "연락처 관리 추천",
+      "contacts",
+      "주소록",
+      "전화번호"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.call-recording",
+    "title": "통화 녹음",
+    "body": "통화 녹음 AppStore 검색어",
+    "keywords": [
+      "통화 녹음",
+      "통화 녹음 앱",
+      "통화 녹음 어필",
+      "통화 녹음 추천",
+      "call recording",
+      "전화 녹음",
+      "녹취"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.excel-viewer",
+    "title": "엑셀 뷰어",
+    "body": "엑셀 뷰어 AppStore 검색어",
+    "keywords": [
+      "엑셀 뷰어",
+      "엑셀 뷰어 앱",
+      "엑셀 뷰어 어필",
+      "엑셀 뷰어 추천",
+      "Excel",
+      "스프레드시트",
+      "xlsx"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.pdf-sign",
+    "title": "PDF 서명",
+    "body": "PDF 서명 AppStore 검색어",
+    "keywords": [
+      "PDF 서명",
+      "PDF 서명 앱",
+      "PDF 서명 어필",
+      "PDF 서명 추천",
+      "전자서명",
+      "sign PDF",
+      "문서 서명"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.qr-generator",
+    "title": "QR 생성",
+    "body": "QR 생성 AppStore 검색어",
+    "keywords": [
+      "QR 생성",
+      "QR 생성 앱",
+      "QR 생성 어필",
+      "QR 생성 추천",
+      "QR 코드 만들기",
+      "QR generator",
+      "바코드 생성"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.tattoo",
+    "title": "타투",
+    "body": "타투 AppStore 검색어",
+    "keywords": [
+      "타투",
+      "타투 앱",
+      "타투 어필",
+      "타투 추천",
+      "tattoo",
+      "문신",
+      "디자인"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.hair-style",
+    "title": "헤어스타일",
+    "body": "헤어스타일 AppStore 검색어",
+    "keywords": [
+      "헤어스타일",
+      "헤어스타일 앱",
+      "헤어스타일 어필",
+      "헤어스타일 추천",
+      "머리 스타일",
+      "hair",
+      "미용실"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.makeup",
+    "title": "메이크업",
+    "body": "메이크업 AppStore 검색어",
+    "keywords": [
+      "메이크업",
+      "메이크업 앱",
+      "메이크업 어필",
+      "메이크업 추천",
+      "makeup",
+      "화장",
+      "뷰티"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.nail-art",
+    "title": "네일아트",
+    "body": "네일아트 AppStore 검색어",
+    "keywords": [
+      "네일아트",
+      "네일아트 앱",
+      "네일아트 어필",
+      "네일아트 추천",
+      "nail art",
+      "네일 디자인",
+      "손톱"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.virtual-tryon",
+    "title": "가상 착용",
+    "body": "가상 착용 AppStore 검색어",
+    "keywords": [
+      "가상 착용",
+      "가상 착용 앱",
+      "가상 착용 어필",
+      "가상 착용 추천",
+      "virtual try-on",
+      "AR 쇼핑",
+      "옷 입어보기"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.fishing",
+    "title": "낚시",
+    "body": "낚시 AppStore 검색어",
+    "keywords": [
+      "낚시",
+      "낚시 앱",
+      "낚시 어필",
+      "낚시 추천",
+      "fishing",
+      "낚시 포인트",
+      "조황"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.hunting",
+    "title": "등산 코스",
+    "body": "등산 코스 AppStore 검색어",
+    "keywords": [
+      "등산 코스",
+      "등산 코스 앱",
+      "등산 코스 어필",
+      "등산 코스 추천",
+      "트레킹 코스",
+      "산책로",
+      "등산 지도"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.surfing",
+    "title": "서핑",
+    "body": "서핑 AppStore 검색어",
+    "keywords": [
+      "서핑",
+      "서핑 앱",
+      "서핑 어필",
+      "서핑 추천",
+      "surfing",
+      "파도",
+      "수상 스포츠"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.chess-learn",
+    "title": "체스 학습",
+    "body": "체스 학습 AppStore 검색어",
+    "keywords": [
+      "체스 학습",
+      "체스 학습 앱",
+      "체스 학습 어필",
+      "체스 학습 추천",
+      "chess tutorial",
+      "체스 전략",
+      "openings"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.vintage",
+    "title": "빈티지",
+    "body": "빈티지 AppStore 검색어",
+    "keywords": [
+      "빈티지",
+      "빈티지 앱",
+      "빈티지 어필",
+      "빈티지 추천",
+      "vintage",
+      "레트로",
+      "앤틱"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.diy",
+    "title": "DIY",
+    "body": "DIY AppStore 검색어",
+    "keywords": [
+      "DIY",
+      "DIY 앱",
+      "DIY 어필",
+      "DIY 추천",
+      "만들기",
+      "공예",
+      "handmade"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.knitting",
+    "title": "뜨개질",
+    "body": "뜨개질 AppStore 검색어",
+    "keywords": [
+      "뜨개질",
+      "뜨개질 앱",
+      "뜨개질 어필",
+      "뜨개질 추천",
+      "knitting",
+      "뜨개",
+      "손뜨개"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.origami",
+    "title": "종이접기",
+    "body": "종이접기 AppStore 검색어",
+    "keywords": [
+      "종이접기",
+      "종이접기 앱",
+      "종이접기 어필",
+      "종이접기 추천",
+      "origami",
+      "종이 공예",
+      "접기"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.duolingo",
+    "title": "듀오링고",
+    "body": "듀오링고 AppStore 검색어",
+    "keywords": [
+      "듀오링고",
+      "듀오링고 앱",
+      "듀오링고 어필",
+      "듀오링고 추천",
+      "duolingo",
+      "외국어 학습",
+      "게임형 언어"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.cambridge",
+    "title": "캠브리지 영어",
+    "body": "캠브리지 영어 AppStore 검색어",
+    "keywords": [
+      "캠브리지 영어",
+      "캠브리지 영어 앱",
+      "캠브리지 영어 어필",
+      "캠브리지 영어 추천",
+      "cambridge",
+      "영어 학습",
+      "사전"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.papago",
+    "title": "파파고",
+    "body": "파파고 AppStore 검색어",
+    "keywords": [
+      "파파고",
+      "파파고 앱",
+      "파파고 어필",
+      "파파고 추천",
+      "papago",
+      "네이버 번역",
+      "번역기"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.speechify",
+    "title": "텍스트 읽기",
+    "body": "텍스트 읽기 AppStore 검색어",
+    "keywords": [
+      "텍스트 읽기",
+      "텍스트 읽기 앱",
+      "텍스트 읽기 어필",
+      "텍스트 읽기 추천",
+      "TTS",
+      "read aloud",
+      "음성 독서"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.language-learning",
+    "title": "외국어 학습",
+    "body": "외국어 학습 AppStore 검색어",
+    "keywords": [
+      "외국어 학습",
+      "외국어 학습 앱",
+      "외국어 학습 어필",
+      "외국어 학습 추천",
+      "언어 공부",
+      "외국어",
+      "language learning"
+    ]
+  },
+  {
+    "id": "appstore.searchbar.seed.grammar-checker",
+    "title": "문법 검사",
+    "body": "문법 검사 AppStore 검색어",
+    "keywords": [
+      "문법 검사",
+      "문법 검사 앱",
+      "문법 검사 어필",
+      "문법 검사 추천",
+      "grammar checker",
+      "맞춤법",
+      "영어 교정"
+    ]
+  }
+]
