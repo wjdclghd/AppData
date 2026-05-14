@@ -11,12 +11,16 @@ import Networking
 /// Networking 클라이언트로 App Store 검색과 상세 응답을 조회합니다.
 public struct SearchAppStoreDataSource<NetworkClient: NetworkClientProtocol>: SearchAppStoreDataSourceProtocol, Sendable {
     private let networkClient: NetworkClient
+    private let baseURL: URL
 
     /// SearchAppStoreDataSource를 생성합니다.
     ///
-    /// - Parameter networkClient: 원격 요청을 수행할 Networking 모듈의 클라이언트입니다.
-    public init(networkClient: NetworkClient) {
+    /// - Parameters:
+    ///   - networkClient: 원격 요청을 수행할 Networking 모듈의 클라이언트입니다.
+    ///   - baseURL: App Store API 서버 기준 URL입니다. App Target의 `AppEnvironment.searchAppStoreBaseURL`에서 주입합니다.
+    public init(networkClient: NetworkClient, baseURL: URL) {
         self.networkClient = networkClient
+        self.baseURL = baseURL
     }
 
     /// 검색 목록 응답을 조회합니다.
@@ -25,7 +29,7 @@ public struct SearchAppStoreDataSource<NetworkClient: NetworkClientProtocol>: Se
     /// - Returns: `SearchAppStoreResponseDTO`입니다.
     /// - Throws: `SearchAppStoreDataError`를 던집니다.
     public func fetchListResults(searchKeyword: String) async throws -> SearchAppStoreResponseDTO {
-        let endpoint = SearchAppStoreEndpoint.list(searchKeyword: searchKeyword)
+        let endpoint = SearchAppStoreEndpoint.list(searchKeyword: searchKeyword, baseURL: baseURL)
         return try await request(endpoint: endpoint)
     }
 
@@ -35,7 +39,7 @@ public struct SearchAppStoreDataSource<NetworkClient: NetworkClientProtocol>: Se
     /// - Returns: `SearchAppStoreResponseDTO`입니다.
     /// - Throws: `SearchAppStoreDataError`를 던집니다.
     public func fetchDetailResults(trackId: Int) async throws -> SearchAppStoreResponseDTO {
-        let endpoint = SearchAppStoreEndpoint.detail(trackId: trackId)
+        let endpoint = SearchAppStoreEndpoint.detail(trackId: trackId, baseURL: baseURL)
         return try await request(endpoint: endpoint)
     }
 }
@@ -56,12 +60,10 @@ private extension SearchAppStoreDataSource {
                  .invalidRequest,
                  .missingAuthorization,
                  .encoding(_),
-                 .unauthorized,
-                 .forbidden,
+                 .http(_),
                  .timeout,
                  .cancelled,
                  .transport(_),
-                 .server(_, _),
                  .unknown:
                 throw SearchAppStoreDataError.remoteFailure
             }
