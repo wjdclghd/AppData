@@ -22,6 +22,7 @@ let package = Package(
     dependencies: [
         .package(path: "../AppDomain"),
         .package(path: "../../Core/Infrastructure/Networking"),
+        .package(path: "../../Core/Infrastructure/Keychain"),
         .package(path: "../../Core/Infrastructure/Persistence"),
         .package(path: "../../Core/Infrastructure/SearchEngine")
     ],
@@ -31,6 +32,7 @@ let package = Package(
             dependencies: [
                 "AppDomain",
                 "Networking",
+                "Keychain",
                 "Persistence",
                 "SearchEngine"
             ],
@@ -46,6 +48,7 @@ let package = Package(
                 "AppDomain",
                 "AppData",
                 "Networking",
+                "Keychain",
                 "Persistence",
                 "SearchEngine"
                 

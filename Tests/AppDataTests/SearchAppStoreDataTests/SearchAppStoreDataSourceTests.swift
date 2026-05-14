@@ -26,7 +26,10 @@ final class SearchAppStoreDataSourceTests: XCTestCase {
     override func setUpWithError() throws {
         try super.setUpWithError()
         networkClient = SpyNetworkClient()
-        sut = SearchAppStoreDataSource(networkClient: networkClient)
+        sut = SearchAppStoreDataSource(
+            networkClient: networkClient,
+            baseURL: URL(string: "https://itunes.apple.com")!
+        )
     }
 
     override func tearDownWithError() throws {
